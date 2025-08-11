@@ -1,0 +1,13 @@
+create or replace
+algorithm = UNDEFINED view `receita`.`distribuidora_municipio_uf` as
+select
+    distinct `mu`.`nome_municipio` as `nome_municipio`,
+    `mu`.`uf` as `uf`,
+    `mu`.`codigo` as `codigo`,
+    `pdd`.`distribuidora` as `distribuidora`
+from
+    ((`receita`.`painel_de_desempenho_das_distribuidoras_por_município_xlsx` `pdd`
+left join `receita`.`rtb_dados` `dtb` on
+    ((`dtb`.`nome_município` = `pdd`.`municipio`)))
+left join `receita`.`municipios_ufs` `mu` on
+    ((`mu`.`nome_municipio` = `dtb`.`Nome_municio_tratado2`)));
