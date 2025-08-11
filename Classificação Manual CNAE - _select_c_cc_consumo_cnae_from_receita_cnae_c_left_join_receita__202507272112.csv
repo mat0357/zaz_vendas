@@ -1,0 +1,1360 @@
+codigo,descricao,consumo_cnae,Caracteristica,Manual
+111301,Cultivo de arroz,,Verificar,Alto Consumo
+111302,Cultivo de milho,"193,957.00",Alto consumo,Alto Consumo
+111303,Cultivo de trigo,,Verificar,Alto Consumo
+111399,Cultivo de outros cereais não especificados anteriormente,,Verificar,Alto Consumo
+112101,Cultivo de algodão herbáceo,"1,268,890.00",Alto consumo,Alto Consumo
+112102,Cultivo de juta,,Verificar,Alto Consumo
+112199,Cultivo de outras fibras de lavoura temporária não especificadas anteriormente,,Verificar,Alto Consumo
+113000,Cultivo de cana-de-açúcar,"19,647.10",Alto consumo,Alto Consumo
+114800,Cultivo de fumo,,Verificar,Alto Consumo
+115600,Cultivo de soja,"3,764,810.00",Alto consumo,Alto Consumo
+116401,Cultivo de amendoim,"26,874.60",Alto consumo,Alto Consumo
+116402,Cultivo de girassol,,Verificar,Alto Consumo
+116403,Cultivo de mamona,,Verificar,Alto Consumo
+116499,Cultivo de outras oleaginosas de lavoura temporária não especificadas anteriormente,,Verificar,Alto Consumo
+119901,Cultivo de abacaxi,,Verificar,Alto Consumo
+119902,Cultivo de alho,"215,013.00",Alto consumo,Alto Consumo
+119903,Cultivo de batata-inglesa,,Verificar,Alto Consumo
+119904,Cultivo de cebola,,Verificar,Alto Consumo
+119905,Cultivo de feijão,,Verificar,Alto Consumo
+119906,Cultivo de mandioca,,Verificar,Alto Consumo
+119907,Cultivo de melão,,Verificar,Alto Consumo
+119908,Cultivo de melancia,,Verificar,Alto Consumo
+119909,Cultivo de tomate rasteiro,,Verificar,Alto Consumo
+119999,Cultivo de outras plantas de lavoura temporária não especificadas anteriormente,,Verificar,Alto Consumo
+121101,"Horticultura, exceto morango","86,759.40",Alto consumo,Alto Consumo
+121102,Cultivo de morango,,Verificar,Alto Consumo
+122900,Cultivo de flores e plantas ornamentais,,Verificar,Alto Consumo
+131800,Cultivo de laranja,"1,560,580.00",Alto consumo,Alto Consumo
+132600,Cultivo de uva,"134,347.00",Alto consumo,Alto Consumo
+133401,Cultivo de açaí,"194,693.00",Alto consumo,Alto Consumo
+133402,Cultivo de banana,,Verificar,Alto Consumo
+133403,Cultivo de caju,,Verificar,Alto Consumo
+133404,"Cultivo de cítricos, exceto laranja","298,119.00",Alto consumo,Alto Consumo
+133405,Cultivo de coco-da-baía,"92,695.90",Alto consumo,Alto Consumo
+133406,Cultivo de guaraná,,Verificar,Alto Consumo
+133407,Cultivo de maçã,"1,394,160.00",Alto consumo,Alto Consumo
+133408,Cultivo de mamão,"35,943.60",Alto consumo,Alto Consumo
+133409,Cultivo de maracujá,,Verificar,Alto Consumo
+133410,Cultivo de manga,,Verificar,Alto Consumo
+133411,Cultivo de pêssego,,Verificar,Alto Consumo
+133499,Cultivo de frutas de lavoura permanente não especificadas anteriormente,"111,985.00",Alto consumo,Alto Consumo
+134200,Cultivo de café,"16,879.80",Alto consumo,Alto Consumo
+135100,Cultivo de cacau,"1,463.06",Alto consumo,Alto Consumo
+139301,Cultivo de chá-da-índia,,Verificar,Alto Consumo
+139302,Cultivo de erva-mate,,Verificar,Alto Consumo
+139303,Cultivo de pimenta-do-reino,,Verificar,Alto Consumo
+139304,"Cultivo de plantas para condimento, exceto pimenta-do-reino",,Verificar,Alto Consumo
+139305,Cultivo de dendê,"5,016.00",Alto consumo,Alto Consumo
+139306,Cultivo de seringueira,,Verificar,Alto Consumo
+139399,Cultivo de outras plantas de lavoura permanente não especificadas anteriormente,,Verificar,Alto Consumo
+141501,"Produção de sementes certificadas, exceto de forrageiras para pasto","3,695,080.00",Alto consumo,Alto Consumo
+141502,Produção de sementes certificadas de forrageiras para formação de pasto,"13,950.50",Alto consumo,Alto Consumo
+142300,"Produção de mudas e outras formas de propagação vegetal, certificadas","322,450.00",Alto consumo,Alto Consumo
+151201,Criação de bovinos para corte,"249,403.00",Alto consumo,Alto Consumo
+151202,Criação de bovinos para leite,"109,910.00",Alto consumo,Alto Consumo
+151203,"Criação de bovinos, exceto para corte e leite",,Verificar,Alto Consumo
+152101,Criação de bufalinos,,Verificar,Alto Consumo
+152102,Criação de eqüinos,,Verificar,Alto Consumo
+152103,Criação de asininos e muares,,Verificar,Alto Consumo
+153901,Criação de caprinos,,Verificar,Alto Consumo
+153902,"Criação de ovinos, inclusive para produção de lã",,Verificar,Alto Consumo
+154700,Criação de suínos,"1,596,110.00",Alto consumo,Alto Consumo
+155501,Criação de frangos para corte,"4,871,090.00",Alto consumo,Alto Consumo
+155502,Produção de pintos de um dia,"7,887,100.00",Alto consumo,Alto Consumo
+155503,"Criação de outros galináceos, exceto para corte","737,698.00",Alto consumo,Alto Consumo
+155504,"Criação de aves, exceto galináceos","345,399.00",Alto consumo,Alto Consumo
+155505,Produção de ovos,"2,680,770.00",Alto consumo,Alto Consumo
+159801,Apicultura,,Verificar,Alto Consumo
+159802,Criação de animais de estimação,,Verificar,Alto Consumo
+159803,Criação de escargô,,Verificar,Alto Consumo
+159804,Criação de bicho-da-seda,,Verificar,Alto Consumo
+159899,Criação de outros animais não especificados anteriormente,,Verificar,Alto Consumo
+161001,Serviço de pulverização e controle de pragas agrícolas,,Verificar,Alto Consumo
+161002,Serviço de poda de árvores para lavouras,,Verificar,Alto Consumo
+161003,"Serviço de preparação de terreno, cultivo e colheita",,Verificar,Alto Consumo
+161099,Atividades de apoio à agricultura não especificadas anteriormente,"947,191.00",Alto consumo,Alto Consumo
+162801,Serviço de inseminação artificial em animais,,Verificar,Alto Consumo
+162802,Serviço de tosquiamento de ovinos,,Verificar,Alto Consumo
+162803,Serviço de manejo de animais,,Verificar,Alto Consumo
+162899,Atividades de apoio à pecuária não especificadas anteriormente,"9,906.89",Alto consumo,Alto Consumo
+163600,Atividades de pós-colheita,"1,778,680.00",Alto consumo,Alto Consumo
+170900,Caça e serviços relacionados,,Verificar,Alto Consumo
+210101,Cultivo de eucalipto,"684,574.00",Alto consumo,Alto Consumo
+210102,Cultivo de acácia-negra,,Verificar,Alto Consumo
+210103,Cultivo de pinus,"1,683,740.00",Alto consumo,Alto Consumo
+210104,Cultivo de teca,,Verificar,Alto Consumo
+210105,"Cultivo de espécies madeireiras, exceto eucalipto, acácia-negra, pinus e teca",,Verificar,Alto Consumo
+210106,Cultivo de mudas em viveiros florestais,844.12,Alto consumo,Alto Consumo
+210107,Extração de madeira em florestas plantadas,"811,998.00",Alto consumo,Alto Consumo
+210108,Produção de carvão vegetal - florestas plantadas,"77,791.10",Alto consumo,Alto Consumo
+210109,Produção de casca de acácia-negra - florestas plantadas,,Verificar,Alto Consumo
+210199,Produção de produtos não-madeireiros não especificados anteriormente em florestas plantadas,,Verificar,Alto Consumo
+220901,Extração de madeira em florestas nativas,,Verificar,Alto Consumo
+220902,Produção de carvão vegetal - florestas nativas,,Verificar,Alto Consumo
+220903,Coleta de castanha-do-pará em florestas nativas,,Verificar,Alto Consumo
+220904,Coleta de látex em florestas nativas,,Verificar,Alto Consumo
+220905,Coleta de palmito em florestas nativas,,Verificar,Alto Consumo
+220906,Conservação de florestas nativas,,Verificar,Alto Consumo
+220999,Coleta de produtos não-madeireiros não especificados anteriormente em florestas nativas,,Verificar,Alto Consumo
+230600,Atividades de apoio à produção florestal,"1,230,480.00",Alto consumo,Alto Consumo
+311601,Pesca de peixes em água salgada,"113,314.00",Alto consumo,Alto Consumo
+311602,Pesca de crustáceos e moluscos em água salgada,"83,557.20",Alto consumo,Alto Consumo
+311603,Coleta de outros produtos marinhos,,Verificar,Alto Consumo
+311604,Atividades de apoio à pesca em água salgada,,Verificar,Alto Consumo
+312401,Pesca de peixes em água doce,,Verificar,Alto Consumo
+312402,Pesca de crustáceos e moluscos em água doce,,Verificar,Alto Consumo
+312403,Coleta de outros produtos aquáticos de água doce,,Verificar,Alto Consumo
+312404,Atividades de apoio à pesca em água doce,,Verificar,Alto Consumo
+321301,Criação de peixes em água salgada e salobra,,Verificar,Alto Consumo
+321302,Criação de camarões em água salgada e salobra,,Verificar,Alto Consumo
+321303,Criação de ostras e mexilhões em água salgada e salobra,,Verificar,Alto Consumo
+321304,Criação de peixes ornamentais em água salgada e salobra,,Verificar,Alto Consumo
+321305,Atividades de apoio à aqüicultura em água salgada e salobra,,Verificar,Alto Consumo
+321399,Cultivos e semicultivos da aqüicultura em água salgada e salobra não especificados anteriormente,,Verificar,Alto Consumo
+322101,Criação de peixes em água doce,"30,394.50",Alto consumo,Alto Consumo
+322102,Criação de camarões em água doce,,Verificar,Alto Consumo
+322103,Criação de ostras e mexilhões em água doce,,Verificar,Alto Consumo
+322104,Criação de peixes ornamentais em água doce,,Verificar,Alto Consumo
+322105,Ranicultura,,Verificar,Alto Consumo
+322106,Criação de jacaré,,Verificar,Alto Consumo
+322107,Atividades de apoio à aqüicultura em água doce,,Verificar,Alto Consumo
+322199,Cultivos e semicultivos da aqüicultura em água doce não especificados anteriormente,,Verificar,Alto Consumo
+500301,Extração de carvão mineral,"1,883,610.00",Alto consumo,Alto Consumo
+500302,Beneficiamento de carvão mineral,"263,752.00",Alto consumo,Alto Consumo
+600001,Extração de petróleo e gás natural,"18,211,800.00",Alto consumo,Alto Consumo
+600002,Extração e beneficiamento de xisto,"2,147,740.00",Alto consumo,Alto Consumo
+600003,Extração e beneficiamento de areias betuminosas,,Verificar,Alto Consumo
+710301,Extração de minério de ferro,"154,739,000.00",Alto consumo,Alto Consumo
+710302,"Pelotização, sinterização e outros beneficiamentos de minério de ferro","39,076,200.00",Alto consumo,Alto Consumo
+721901,Extração de minério de alumínio,"8,991,740.00",Alto consumo,Alto Consumo
+721902,Beneficiamento de minério de alumínio,"258,019.00",Alto consumo,Alto Consumo
+722701,Extração de minério de estanho,"354,575.00",Alto consumo,Alto Consumo
+722702,Beneficiamento de minério de estanho,"63,922.20",Alto consumo,Alto Consumo
+723501,Extração de minério de manganês,"43,426.30",Alto consumo,Alto Consumo
+723502,Beneficiamento de minério de manganês,,Verificar,Alto Consumo
+724301,Extração de minério de metais preciosos,"59,328,400.00",Alto consumo,Alto Consumo
+724302,Beneficiamento de minério de metais preciosos,"12,621,000.00",Alto consumo,Alto Consumo
+725100,Extração de minerais radioativos,,Verificar,Alto Consumo
+729401,Extração de minérios de nióbio e titânio,"262,319.00",Alto consumo,Alto Consumo
+729402,Extração de minério de tungstênio,,Verificar,Alto Consumo
+729403,Extração de minério de níquel,"16,577,700.00",Alto consumo,Alto Consumo
+729404,"Extração de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente","59,597,700.00",Alto consumo,Alto Consumo
+729405,"Beneficiamento de minérios de cobre, chumbo, zinco e outros minerais metálicos não-ferrosos não especificados anteriormente","2,309,770.00",Alto consumo,Alto Consumo
+810001,Extração de ardósia e beneficiamento associado,"49,452.30",Alto consumo,Alto Consumo
+810002,Extração de granito e beneficiamento associado,"1,029,710.00",Alto consumo,Alto Consumo
+810003,Extração de mármore e beneficiamento associado,"147,733.00",Alto consumo,Alto Consumo
+810004,Extração de calcário e dolomita e beneficiamento associado,"12,414,200.00",Alto consumo,Alto Consumo
+810005,Extração de gesso e caulim,"491,428.00",Alto consumo,Alto Consumo
+810006,"Extração de areia, cascalho ou pedregulho e beneficiamento associado","2,969,590.00",Alto consumo,Alto Consumo
+810007,Extração de argila e beneficiamento associado,"853,300.00",Alto consumo,Alto Consumo
+810008,Extração de saibro e beneficiamento associado,"13,419.30",Alto consumo,Alto Consumo
+810009,Extração de basalto e beneficiamento associado,"1,326,040.00",Alto consumo,Alto Consumo
+810010,Beneficiamento de gesso e caulim associado à extração,"2,212,590.00",Alto consumo,Alto Consumo
+810099,Extração e britamento de pedras e outros materiais para construção e beneficiamento associado,"15,358,100.00",Alto consumo,Alto Consumo
+891600,"Extração de minerais para fabricação de adubos, fertilizantes e outros produtos químicos","26,051,900.00",Alto consumo,Alto Consumo
+892401,Extração de sal marinho,"556,425.00",Alto consumo,Alto Consumo
+892402,Extração de sal-gema,"304,020.00",Alto consumo,Alto Consumo
+892403,Refino e outros tratamentos do sal,"466,625.00",Alto consumo,Alto Consumo
+893200,Extração de gemas (pedras preciosas e semipreciosas),"75,602.40",Alto consumo,Alto Consumo
+899101,Extração de grafita,"1,166,220.00",Alto consumo,Alto Consumo
+899102,Extração de quartzo,"38,980.70",Alto consumo,Alto Consumo
+899103,Extração de amianto,"1,380,610.00",Alto consumo,Alto Consumo
+899199,Extração de outros minerais não-metálicos não especificados anteriormente,"5,485,270.00",Alto consumo,Alto Consumo
+910600,Atividades de apoio à extração de petróleo e gás natural,"3,787,500.00",Alto consumo,Alto Consumo
+990401,Atividades de apoio à extração de minério de ferro,,Verificar,Alto Consumo
+990402,Atividades de apoio à extração de minerais metálicos não-ferrosos,"197,309.00",Alto consumo,Alto Consumo
+990403,Atividades de apoio à extração de minerais não-metálicos,"1,504,360.00",Alto consumo,Alto Consumo
+1011201,Frigorífico - abate de bovinos,"51,576,000.00",Alto consumo,Alto Consumo
+1011202,Frigorífico - abate de eqüinos,"36,079.50",Alto consumo,Alto Consumo
+1011203,Frigorífico - abate de ovinos e caprinos,318.53,Alto consumo,Alto Consumo
+1011204,Frigorífico - abate de bufalinos,,Verificar,Alto Consumo
+1011205,Matadouro - abate de reses sob contrato - exceto abate de suínos,"182,053.00",Alto consumo,Alto Consumo
+1012101,Abate de aves,"102,504,000.00",Alto consumo,Alto Consumo
+1012102,Abate de pequenos animais,"706,933.00",Alto consumo,Alto Consumo
+1012103,Frigorífico - abate de suínos,"51,277,700.00",Alto consumo,Alto Consumo
+1012104,Matadouro - abate de suínos sob contrato,"28,771.30",Alto consumo,Alto Consumo
+1013901,Fabricação de produtos de carne,"14,067,800.00",Alto consumo,Alto Consumo
+1013902,Preparação de subprodutos do abate,"4,478,500.00",Alto consumo,Alto Consumo
+1020101,"Preservação de peixes, crustáceos e moluscos","1,987,440.00",Alto consumo,Alto Consumo
+1020102,"Fabricação de conservas de peixes, crustáceos e moluscos","3,365,570.00",Alto consumo,Alto Consumo
+1031700,Fabricação de conservas de frutas,"6,295,780.00",Alto consumo,Alto Consumo
+1032501,Fabricação de conservas de palmito,"4,154.97",Alto consumo,Alto Consumo
+1032599,"Fabricação de conservas de legumes e outros vegetais, exceto palmito","1,724,860.00",Alto consumo,Alto Consumo
+1033301,"Fabricação de sucos concentrados de frutas, hortaliças e legumes","17,562,500.00",Alto consumo,Alto Consumo
+1033302,"Fabricação de sucos de frutas, hortaliças e legumes, exceto concentrados","2,088,320.00",Alto consumo,Alto Consumo
+1041400,"Fabricação de óleos vegetais em bruto, exceto óleo de milho","45,077,000.00",Alto consumo,Alto Consumo
+1042200,"Fabricação de óleos vegetais refinados, exceto óleo de milho","9,351,600.00",Alto consumo,Alto Consumo
+1043100,Fabricação de margarina e outras gorduras vegetais e de óleos não-comestíveis de animais,"2,934,600.00",Alto consumo,Alto Consumo
+1051100,Preparação do leite,"5,261,410.00",Alto consumo,Alto Consumo
+1052000,Fabricação de laticínios,"45,262,200.00",Alto consumo,Alto Consumo
+1053800,Fabricação de sorvetes e outros gelados comestíveis,"3,927,530.00",Alto consumo,Alto Consumo
+1061901,Beneficiamento de arroz,"12,716,200.00",Alto consumo,Alto Consumo
+1061902,Fabricação de produtos do arroz,"259,892.00",Alto consumo,Alto Consumo
+1062700,Moagem de trigo e fabricação de derivados,"24,845,900.00",Alto consumo,Alto Consumo
+1063500,Fabricação de farinha de mandioca e derivados,"1,428,540.00",Alto consumo,Alto Consumo
+1064300,"Fabricação de farinha de milho e derivados, exceto óleos de milho","4,371,640.00",Alto consumo,Alto Consumo
+1065101,Fabricação de amidos e féculas de vegetais,"19,425,900.00",Alto consumo,Alto Consumo
+1065102,Fabricação de óleo de milho em bruto,"113,641.00",Alto consumo,Alto Consumo
+1065103,Fabricação de óleo de milho refinado,,Verificar,Alto Consumo
+1066000,Fabricação de alimentos para animais,"38,290,900.00",Alto consumo,Alto Consumo
+1069400,Moagem e fabricação de produtos de origem vegetal não especificados anteriormente,"4,478,980.00",Alto consumo,Alto Consumo
+1071600,Fabricação de açúcar em bruto,"6,910,960.00",Alto consumo,Alto Consumo
+1072401,Fabricação de açúcar de cana refinado,"164,947.00",Alto consumo,Alto Consumo
+1072402,Fabricação de açúcar de cereais (dextrose) e de beterraba,,Verificar,Alto Consumo
+1081301,Beneficiamento de café,"229,433.00",Alto consumo,Alto Consumo
+1081302,Torrefação e moagem de café,"2,616,910.00",Alto consumo,Alto Consumo
+1082100,Fabricação de produtos à base de café,"4,493,110.00",Alto consumo,Alto Consumo
+1091100,Fabricação de produtos de panificação,,Verificar,Alto Consumo
+1091101,Fabricação de produtos de panificação industrial,"13,712,400.00",Alto consumo,Alto Consumo
+1091102,Fabricação de produtos de padaria e confeitaria com predominância de produção própria,"699,621.00",Alto consumo,Alto Consumo
+1092900,Fabricação de biscoitos e bolachas,"9,155,360.00",Alto consumo,Alto Consumo
+1093701,Fabricação de produtos derivados do cacau e de chocolates,"11,757,600.00",Alto consumo,Alto Consumo
+1093702,"Fabricação de frutas cristalizadas, balas e semelhantes","3,875,050.00",Alto consumo,Alto Consumo
+1094500,Fabricação de massas alimentícias,"9,811,220.00",Alto consumo,Alto Consumo
+1095300,"Fabricação de especiarias, molhos, temperos e condimentos","1,593,720.00",Alto consumo,Alto Consumo
+1096100,Fabricação de alimentos e pratos prontos,"1,076,490.00",Alto consumo,Alto Consumo
+1099601,Fabricação de vinagres,"371,495.00",Alto consumo,Alto Consumo
+1099602,Fabricação de pós alimentícios,"5,946,560.00",Alto consumo,Alto Consumo
+1099603,Fabricação de fermentos e leveduras,"1,369,850.00",Alto consumo,Alto Consumo
+1099604,Fabricação de gelo comum,"1,907,140.00",Alto consumo,Alto Consumo
+1099605,"Fabricação de produtos para infusão (chá, mate, etc.)","83,234.50",Alto consumo,Alto Consumo
+1099606,Fabricação de adoçantes naturais e artificiais,"190,651.00",Alto consumo,Alto Consumo
+1099607,Fabricação de alimentos dietéticos e complementos alimentares,"302,011.00",Alto consumo,Alto Consumo
+1099699,Fabricação de outros produtos alimentícios não especificados anteriormente,"17,449,400.00",Alto consumo,Alto Consumo
+1111901,Fabricação de aguardente de cana-de-açúcar,"502,016.00",Alto consumo,Alto Consumo
+1111902,Fabricação de outras aguardentes e bebidas destiladas,"226,817.00",Alto consumo,Alto Consumo
+1112700,Fabricação de vinho,"1,388,640.00",Alto consumo,Alto Consumo
+1113501,"Fabricação de malte, inclusive malte uísque","1,787,480.00",Alto consumo,Alto Consumo
+1113502,Fabricação de cervejas e chopes,"39,785,500.00",Alto consumo,Alto Consumo
+1121600,Fabricação de águas envasadas,"5,638,060.00",Alto consumo,Alto Consumo
+1122401,Fabricação de refrigerantes,"16,204,000.00",Alto consumo,Alto Consumo
+1122402,Fabricação de chá mate e outros chás prontos para consumo,,Verificar,Alto Consumo
+1122403,"Fabricação de refrescos, xaropes e pós para refrescos, exceto refrescos de frutas","2,128,160.00",Alto consumo,Alto Consumo
+1122404,Fabricação de bebidas isotônicas,,Verificar,Alto Consumo
+1122499,Fabricação de outras bebidas não-alcoólicas não especificadas anteriormente,"827,215.00",Alto consumo,Alto Consumo
+1210700,Processamento industrial do fumo,"2,079,520.00",Alto consumo,Alto Consumo
+1220401,Fabricação de cigarros,"1,912,690.00",Alto consumo,Alto Consumo
+1220402,Fabricação de cigarrilhas e charutos,,Verificar,Alto Consumo
+1220403,Fabricação de filtros para cigarros,,Verificar,Alto Consumo
+1220499,"Fabricação de outros produtos do fumo, exceto cigarros, cigarrilhas e charutos","76,788.30",Alto consumo,Alto Consumo
+1311100,Preparação e fiação de fibras de algodão,"33,943,600.00",Alto consumo,Alto Consumo
+1312000,"Preparação e fiação de fibras têxteis naturais, exceto algodão","779,752.00",Alto consumo,Alto Consumo
+1313800,Fiação de fibras artificiais e sintéticas,"11,387,300.00",Alto consumo,Alto Consumo
+1314600,Fabricação de linhas para costurar e bordar,"800,319.00",Alto consumo,Alto Consumo
+1321900,Tecelagem de fios de algodão,"27,018,800.00",Alto consumo,Alto Consumo
+1322700,"Tecelagem de fios de fibras têxteis naturais, exceto algodão","97,208.20",Alto consumo,Alto Consumo
+1323500,Tecelagem de fios de fibras artificiais e sintéticas,"7,060,060.00",Alto consumo,Alto Consumo
+1330800,Fabricação de tecidos de malha,"8,025,290.00",Alto consumo,Alto Consumo
+1340501,"Estamparia e texturização em fios, tecidos, artefatos têxteis e peças do vestuário","6,053,150.00",Alto consumo,Alto Consumo
+1340502,"Alvejamento, tingimento e torção em fios, tecidos, artefatos têxteis e peças do vestuário","7,079,580.00",Alto consumo,Alto Consumo
+1340599,"Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário","1,052,100.00",Alto consumo,Alto Consumo
+1351100,Fabricação de artefatos têxteis para uso doméstico,"5,098,370.00",Alto consumo,Alto Consumo
+1352900,Fabricação de artefatos de tapeçaria,"925,479.00",Alto consumo,Alto Consumo
+1353700,Fabricação de artefatos de cordoaria,"694,374.00",Alto consumo,Alto Consumo
+1354500,"Fabricação de tecidos especiais, inclusive artefatos","9,141,460.00",Alto consumo,Alto Consumo
+1359600,Fabricação de outros produtos têxteis não especificados anteriormente,"12,675,900.00",Alto consumo,Alto Consumo
+1411801,Confecção de roupas íntimas,"1,089,390.00",Alto consumo,Alto Consumo
+1411802,Facção de roupas íntimas,,Verificar,Alto Consumo
+1412601,"Confecção de peças de vestuário, exceto roupas íntimas e as confeccionadas sob medida","5,839,490.00",Alto consumo,Alto Consumo
+1412602,"Confecção, sob medida, de peças do vestuário, exceto roupas íntimas","17,481.70",Alto consumo,Alto Consumo
+1412603,"Facção de peças do vestuário, exceto roupas íntimas",772.10,Alto consumo,Alto Consumo
+1413401,"Confecção de roupas profissionais, exceto sob medida",,Verificar,Alto Consumo
+1413402,"Confecção, sob medida, de roupas profissionais",,Verificar,Alto Consumo
+1413403,Facção de roupas profissionais,,Verificar,Alto Consumo
+1414200,"Fabricação de acessórios do vestuário, exceto para segurança e proteção","209,155.00",Alto consumo,Alto Consumo
+1421500,Fabricação de meias,"2,531,060.00",Alto consumo,Alto Consumo
+1422300,"Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias","427,099.00",Alto consumo,Alto Consumo
+1510600,Curtimento e outras preparações de couro,"8,651,510.00",Alto consumo,Alto Consumo
+1521100,"Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material","25,120.50",Alto consumo,Alto Consumo
+1529700,Fabricação de artefatos de couro não especificados anteriormente,"346,224.00",Alto consumo,Alto Consumo
+1531901,Fabricação de calçados de couro,"5,134,900.00",Alto consumo,Alto Consumo
+1531902,Acabamento de calçados de couro sob contrato,"58,082.70",Alto consumo,Alto Consumo
+1532700,Fabricação de tênis de qualquer material,"661,862.00",Alto consumo,Alto Consumo
+1533500,Fabricação de calçados de material sintético,"4,361,490.00",Alto consumo,Alto Consumo
+1539400,Fabricação de calçados de materiais não especificados anteriormente,"4,722,290.00",Alto consumo,Alto Consumo
+1540800,"Fabricação de partes para calçados, de qualquer material","1,249,410.00",Alto consumo,Alto Consumo
+1610201,Serrarias com desdobramento de madeira,,Verificar,Alto Consumo
+1610202,Serrarias sem desdobramento de madeira,,Verificar,Alto Consumo
+1610203,Serrarias com desdobramento de madeira em bruto,"7,568,540.00",Alto consumo,Alto Consumo
+1610204,Serrarias sem desdobramento de madeira em bruto  -Resserragem,"257,050.00",Alto consumo,Alto Consumo
+1610205,Serviço de tratamento de madeira realizado sob contrato,"13,878.70",Alto consumo,Alto Consumo
+1621800,"Fabricação de madeira laminada e de chapas de madeira compensada, prensada e aglomerada","60,106,300.00",Alto consumo,Alto Consumo
+1622601,Fabricação de casas de madeira pré-fabricadas,,Verificar,Alto Consumo
+1622602,Fabricação de esquadrias de madeira e de peças de madeira para instalações industriais e comerciais,"2,852,170.00",Alto consumo,Alto Consumo
+1622699,Fabricação de outros artigos de carpintaria para construção,"53,534.20",Alto consumo,Alto Consumo
+1623400,Fabricação de artefatos de tanoaria e de embalagens de madeira,"1,046,760.00",Alto consumo,Alto Consumo
+1629301,"Fabricação de artefatos diversos de madeira, exceto móveis","2,283,040.00",Alto consumo,Alto Consumo
+1629302,"Fabricação de artefatos diversos de cortiça, bambu, palha, vime e outros materiais trançados, exceto móveis",,Verificar,Alto Consumo
+1710900,Fabricação de celulose e outras pastas para a fabricação de papel,"89,324,000.00",Alto consumo,Alto Consumo
+1721400,Fabricação de papel,"135,689,000.00",Alto consumo,Alto Consumo
+1722200,Fabricação de cartolina e papel-cartão,"4,659,800.00",Alto consumo,Alto Consumo
+1731100,Fabricação de embalagens de papel,"6,756,010.00",Alto consumo,Alto Consumo
+1732000,Fabricação de embalagens de cartolina e papel-cartão,"1,856,130.00",Alto consumo,Alto Consumo
+1733800,Fabricação de chapas e de embalagens de papelão ondulado,"24,213,200.00",Alto consumo,Alto Consumo
+1741901,Fabricação de formulários contínuos,"28,236.30",Alto consumo,Alto Consumo
+1741902,"Fabricação de produtos de papel, cartolina, papel cartão e papelão ondulado para uso comercial e de escritório, exceto formulário contínuo","5,282,370.00",Alto consumo,Alto Consumo
+1742701,Fabricação de fraldas descartáveis,"7,363,890.00",Alto consumo,Alto Consumo
+1742702,Fabricação de absorventes higiênicos,"195,648.00",Alto consumo,Alto Consumo
+1742799,Fabricação de produtos de papel para uso doméstico e higiênico-sanitário não especificados anteriormente,"17,839,100.00",Alto consumo,Alto Consumo
+1749400,"Fabricação de produtos de pastas celulósicas, papel, cartolina, papel-cartão e papelão ondulado não especificados anteriormente","5,858,640.00",Alto consumo,Alto Consumo
+1811301,Impressão de jornais,"97,956.50",Alto consumo,Alto Consumo
+1811302,"Impressão de livros, revistas e outras publicações periódicas","2,823,910.00",Alto consumo,Alto Consumo
+1812100,Impressão de material de segurança,"651,046.00",Alto consumo,Alto Consumo
+1813001,Impressão de material para uso publicitário,"763,672.00",Alto consumo,Alto Consumo
+1813099,Impressão de material para outros usos,"1,591,530.00",Alto consumo,Alto Consumo
+1821100,Serviços de pré-impressão,"375,623.00",Alto consumo,Alto Consumo
+1822900,Serviços de acabamentos gráficos,,Verificar,Alto Consumo
+1822901,Serviços de encadernação e plastificação,,Verificar,Alto Consumo
+1822999,"Serviços de acabamentos gráficos, exceto encadernação e plastificação","100,121.00",Alto consumo,Alto Consumo
+1830001,Reprodução de som em qualquer suporte,"3,441.23",Alto consumo,Alto Consumo
+1830002,Reprodução de vídeo em qualquer suporte,"117,002.00",Alto consumo,Alto Consumo
+1830003,Reprodução de software em qualquer suporte,,Verificar,Alto Consumo
+1910100,Coquerias,,Verificar,Alto Consumo
+1921700,Fabricação de produtos do refino de petróleo,"60,414,200.00",Alto consumo,Alto Consumo
+1922501,Formulação de combustíveis,,Verificar,Alto Consumo
+1922502,Rerrefino de óleos lubrificantes,"455,677.00",Alto consumo,Alto Consumo
+1922599,"Fabricação de outros produtos derivados do petróleo, exceto produtos do refino","917,945.00",Alto consumo,Alto Consumo
+1931400,Fabricação de álcool,"2,490,010.00",Alto consumo,Alto Consumo
+1932200,"Fabricação de biocombustíveis, exceto álcool","6,268,990.00",Alto consumo,Alto Consumo
+2011800,Fabricação de cloro e álcalis,"56,892,400.00",Alto consumo,Alto Consumo
+2012600,Fabricação de intermediários para fertilizantes,"12,111,200.00",Alto consumo,Alto Consumo
+2013400,Fabricação de adubos e fertilizantes,,Verificar,Alto Consumo
+2013401,Fabricação de adubos e fertilizantes organo-minerais,"571,656.00",Alto consumo,Alto Consumo
+2013402,"Fabricação de adubos e fertilizantes, exceto organo-minerais","12,148,500.00",Alto consumo,Alto Consumo
+2014200,Fabricação de gases industriais,"96,827,000.00",Alto consumo,Alto Consumo
+2019301,Elaboração de combustíveis nucleares,"571,697.00",Alto consumo,Alto Consumo
+2019399,Fabricação de outros produtos químicos inorgânicos não especificados anteriormente,"29,281,300.00",Alto consumo,Alto Consumo
+2021500,Fabricação de produtos petroquímicos básicos,"54,058,700.00",Alto consumo,Alto Consumo
+2022300,"Fabricação de intermediários para plastificantes, resinas e fibras","3,617,780.00",Alto consumo,Alto Consumo
+2029100,Fabricação de produtos químicos orgânicos não especificados anteriormente,"55,311,100.00",Alto consumo,Alto Consumo
+2031200,Fabricação de resinas termoplásticas,"57,101,000.00",Alto consumo,Alto Consumo
+2032100,Fabricação de resinas termofixas,"1,159,410.00",Alto consumo,Alto Consumo
+2033900,Fabricação de elastômeros,"4,673,160.00",Alto consumo,Alto Consumo
+2040100,Fabricação de fibras artificiais e sintéticas,"10,221,500.00",Alto consumo,Alto Consumo
+2051700,Fabricação de defensivos agrícolas,"6,963,210.00",Alto consumo,Alto Consumo
+2052500,Fabricação de desinfestantes domissanitários,"1,312,360.00",Alto consumo,Alto Consumo
+2061400,Fabricação de sabões e detergentes sintéticos,"8,581,060.00",Alto consumo,Alto Consumo
+2062200,Fabricação de produtos de limpeza e polimento,"5,305,100.00",Alto consumo,Alto Consumo
+2063100,"Fabricação de cosméticos, produtos de perfumaria e de higiene pessoal","13,107,900.00",Alto consumo,Alto Consumo
+2071100,"Fabricação de tintas, vernizes, esmaltes e lacas","5,385,380.00",Alto consumo,Alto Consumo
+2072000,Fabricação de tintas de impressão,"268,686.00",Alto consumo,Alto Consumo
+2073800,"Fabricação de impermeabilizantes, solventes e produtos afins","655,289.00",Alto consumo,Alto Consumo
+2091600,Fabricação de adesivos e selantes,"1,640,820.00",Alto consumo,Alto Consumo
+2092401,"Fabricação de pólvoras, explosivos e detonantes","190,786.00",Alto consumo,Alto Consumo
+2092402,Fabricação de artigos pirotécnicos,,Verificar,Alto Consumo
+2092403,Fabricação de fósforos de segurança,"212,804.00",Alto consumo,Alto Consumo
+2093200,Fabricação de aditivos de uso industrial,"7,538,290.00",Alto consumo,Alto Consumo
+2094100,Fabricação de catalisadores,"1,271,670.00",Alto consumo,Alto Consumo
+2099101,"Fabricação de chapas, filmes, papéis e outros materiais e produtos químicos para fotografia","483,687.00",Alto consumo,Alto Consumo
+2099199,Fabricação de outros produtos químicos não especificados anteriormente,"37,145,500.00",Alto consumo,Alto Consumo
+2110600,Fabricação de produtos farmoquímicos,"2,331,840.00",Alto consumo,Alto Consumo
+2121101,Fabricação de medicamentos alopáticos para uso humano,"30,920,600.00",Alto consumo,Alto Consumo
+2121102,Fabricação de medicamentos homeopáticos para uso humano,,Verificar,Alto Consumo
+2121103,Fabricação de medicamentos fitoterápicos para uso humano,"99,578.10",Alto consumo,Alto Consumo
+2122000,Fabricação de medicamentos para uso veterinário,"2,874,630.00",Alto consumo,Alto Consumo
+2123800,Fabricação de preparações farmacêuticas,"123,714.00",Alto consumo,Alto Consumo
+2211100,Fabricação de pneumáticos e de câmaras-de-ar,"31,700,400.00",Alto consumo,Alto Consumo
+2212900,Reforma de pneumáticos usados,"512,498.00",Alto consumo,Alto Consumo
+2219600,Fabricação de artefatos de borracha não especificados anteriormente,"13,230,600.00",Alto consumo,Alto Consumo
+2221800,Fabricação de laminados planos e tubulares de material plástico,"14,667,700.00",Alto consumo,Alto Consumo
+2222600,Fabricação de embalagens de material plástico,"100,639,000.00",Alto consumo,Alto Consumo
+2223400,Fabricação de tubos e acessórios de material plástico para uso na construção,"11,332,400.00",Alto consumo,Alto Consumo
+2229301,Fabricação de artefatos de material plástico para uso pessoal e doméstico,"15,889,300.00",Alto consumo,Alto Consumo
+2229302,Fabricação de artefatos de material plástico para usos industriais,"26,327,900.00",Alto consumo,Alto Consumo
+2229303,"Fabricação de artefatos de material plástico para uso na construção, exceto tubos e acessórios","4,021,020.00",Alto consumo,Alto Consumo
+2229399,Fabricação de artefatos de material plástico para outros usos não especificados anteriormente,"21,192,800.00",Alto consumo,Alto Consumo
+2311700,Fabricação de vidro plano e de segurança,"21,762,300.00",Alto consumo,Alto Consumo
+2312500,Fabricação de embalagens de vidro,"20,951,500.00",Alto consumo,Alto Consumo
+2319200,Fabricação de artigos de vidro,"11,288,200.00",Alto consumo,Alto Consumo
+2320600,Fabricação de cimento,"160,139,000.00",Alto consumo,Alto Consumo
+2330301,"Fabricação de estruturas pré-moldadas de concreto armado, em série e sob encomenda","184,777.00",Alto consumo,Alto Consumo
+2330302,Fabricação de artefatos de cimento para uso na construção,"331,093.00",Alto consumo,Alto Consumo
+2330303,Fabricação de artefatos de fibrocimento para uso na construção,"4,593,650.00",Alto consumo,Alto Consumo
+2330304,Fabricação de casas pré-moldadas de concreto,,Verificar,Alto Consumo
+2330305,Preparação de massa de concreto e argamassa para construção,"747,399.00",Alto consumo,Alto Consumo
+2330399,"Fabricação de outros artefatos e produtos de concreto, cimento, fibrocimento, gesso e materiais semelhantes","2,971,470.00",Alto consumo,Alto Consumo
+2341900,Fabricação de produtos cerâmicos refratários,"3,049,100.00",Alto consumo,Alto Consumo
+2342701,Fabricação de azulejos e pisos,"49,938,700.00",Alto consumo,Alto Consumo
+2342702,"Fabricação de artefatos de cerâmica e barro cozido para uso na construção, exceto azulejos e pisos","10,982,600.00",Alto consumo,Alto Consumo
+2349401,Fabricação de material sanitário de cerâmica,"3,545,410.00",Alto consumo,Alto Consumo
+2349499,Fabricação de produtos cerâmicos não-refratários não especificados anteriormente,"1,357,820.00",Alto consumo,Alto Consumo
+2391501,"Britamento de pedras, exceto associado à extração","386,526.00",Alto consumo,Alto Consumo
+2391502,"Aparelhamento de pedras para construção, exceto associado à extração","820,022.00",Alto consumo,Alto Consumo
+2391503,"Aparelhamento de placas e execução de trabalhos em mármore, granito, ardósia e outras pedras","5,666,090.00",Alto consumo,Alto Consumo
+2392300,Fabricação de cal e gesso,"11,873,500.00",Alto consumo,Alto Consumo
+2399101,"Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal","476,256.00",Alto consumo,Alto Consumo
+2399102,Fabricação de abrasivos,"357,132.00",Alto consumo,Alto Consumo
+2399199,Fabricação de outros produtos de minerais não-metálicos não especificados anteriormente,"29,012,500.00",Alto consumo,Alto Consumo
+2411300,Produção de ferro-gusa,"9,835,000.00",Alto consumo,Alto Consumo
+2412100,Produção de ferroligas,"220,208,000.00",Alto consumo,Alto Consumo
+2421100,Produção de semi-acabados de aço,"47,447,100.00",Alto consumo,Alto Consumo
+2422901,"Produção de laminados planos de aço ao carbono, revestidos ou não","138,852,000.00",Alto consumo,Alto Consumo
+2422902,Produção de laminados planos de aços especiais,"17,010,500.00",Alto consumo,Alto Consumo
+2423701,Produção de tubos de aço sem costura,"15,497,000.00",Alto consumo,Alto Consumo
+2423702,"Produção de laminados longos de aço, exceto tubos","172,968,000.00",Alto consumo,Alto Consumo
+2424501,Produção de arames de aço,"6,259,460.00",Alto consumo,Alto Consumo
+2424502,"Produção de relaminados, trefilados e perfilados de aço, exceto arames","3,173,850.00",Alto consumo,Alto Consumo
+2431800,Produção de tubos de aço com costura,"4,682,080.00",Alto consumo,Alto Consumo
+2439300,Produção de outros tubos de ferro e aço,"1,783,120.00",Alto consumo,Alto Consumo
+2441501,Produção de alumínio e suas ligas em formas primárias,"302,211,000.00",Alto consumo,Alto Consumo
+2441502,Produção de laminados de alumínio,"14,728,900.00",Alto consumo,Alto Consumo
+2442300,Metalurgia dos metais preciosos,"2,322,590.00",Alto consumo,Alto Consumo
+2443100,Metalurgia do cobre,"10,023,100.00",Alto consumo,Alto Consumo
+2449101,Produção de zinco em formas primárias,"26,927,200.00",Alto consumo,Alto Consumo
+2449102,Produção de laminados de zinco,,Verificar,Alto Consumo
+2449103,Fabricação de ânodos para galvanoplastia,,Verificar,Alto Consumo
+2449199,Metalurgia de outros metais não-ferrosos e suas ligas não especificados anteriormente,"27,296,000.00",Alto consumo,Alto Consumo
+2451200,Fundição de ferro e aço,"52,402,500.00",Alto consumo,Alto Consumo
+2452100,Fundição de metais não-ferrosos e suas ligas,"5,815,650.00",Alto consumo,Alto Consumo
+2511000,Fabricação de estruturas metálicas,"1,985,290.00",Alto consumo,Alto Consumo
+2512800,Fabricação de esquadrias de metal,"1,027,580.00",Alto consumo,Alto Consumo
+2513600,Fabricação de obras de caldeiraria pesada,"374,228.00",Alto consumo,Alto Consumo
+2521700,"Fabricação de tanques, reservatórios metálicos e caldeiras para aquecimento central","134,660.00",Alto consumo,Alto Consumo
+2522500,"Fabricação de caldeiras geradoras de vapor, exceto para aquecimento central e para veículos","213,668.00",Alto consumo,Alto Consumo
+2531401,Produção de forjados de aço,"2,315,090.00",Alto consumo,Alto Consumo
+2531402,Produção de forjados de metais não-ferrosos e suas ligas,"15,509.90",Alto consumo,Alto Consumo
+2532201,Produção de artefatos estampados de metal,"1,716,490.00",Alto consumo,Alto Consumo
+2532202,Metalurgia do pó,"1,056,040.00",Alto consumo,Alto Consumo
+2539000,"Serviços de usinagem, solda, tratamento e revestimento em metais",,Verificar,Alto Consumo
+2539001,"Serviços de usinagem, tornearia e solda","3,332,860.00",Alto consumo,Alto Consumo
+2539002,Serviços de tratamento e revestimento em metais,"3,258,170.00",Alto consumo,Alto Consumo
+2541100,Fabricação de artigos de cutelaria,"4,331,710.00",Alto consumo,Alto Consumo
+2542000,"Fabricação de artigos de serralheria, exceto esquadrias","1,496,470.00",Alto consumo,Alto Consumo
+2543800,Fabricação de ferramentas,"3,955,790.00",Alto consumo,Alto Consumo
+2550101,"Fabricação de equipamento bélico pesado, exceto veículos militares de combate",,Verificar,Alto Consumo
+2550102,"Fabricação de armas de fogo, outras armas e munições","1,115,210.00",Alto consumo,Alto Consumo
+2591800,Fabricação de embalagens metálicas,"23,012,400.00",Alto consumo,Alto Consumo
+2592601,Fabricação de produtos de trefilados de metal padronizados,"6,922,400.00",Alto consumo,Alto Consumo
+2592602,"Fabricação de produtos de trefilados de metal, exceto padronizados","1,437,670.00",Alto consumo,Alto Consumo
+2593400,Fabricação de artigos de metal para uso doméstico e pessoal,"2,290,880.00",Alto consumo,Alto Consumo
+2599301,Serviços de confecção de armações metálicas para a construção,"103,478.00",Alto consumo,Alto Consumo
+2599302,Serviço de corte e dobra de metais,"188,251.00",Alto consumo,Alto Consumo
+2599399,Fabricação de outros produtos de metal não especificados anteriormente,"12,264,000.00",Alto consumo,Alto Consumo
+2610800,Fabricação de componentes eletrônicos,"5,967,190.00",Alto consumo,Alto Consumo
+2621300,Fabricação de equipamentos de informática,"352,810.00",Alto consumo,Alto Consumo
+2622100,Fabricação de periféricos para equipamentos de informática,"1,140,910.00",Alto consumo,Alto Consumo
+2631100,"Fabricação de equipamentos transmissores de comunicação, peças e acessórios","116,140.00",Alto consumo,Alto Consumo
+2632900,"Fabricação de aparelhos telefônicos e de outros equipamentos de comunicação, peças e acessórios","1,637,590.00",Alto consumo,Alto Consumo
+2640000,"Fabricação de aparelhos de recepção, reprodução, gravação e amplificação de áudio e vídeo","3,615,780.00",Alto consumo,Alto Consumo
+2651500,"Fabricação de aparelhos e equipamentos de medida, teste e controle","293,033.00",Alto consumo,Alto Consumo
+2652300,Fabricação de cronômetros e relógios,"85,076.10",Alto consumo,Alto Consumo
+2660400,Fabricação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,"95,358.10",Alto consumo,Alto Consumo
+2670101,"Fabricação de equipamentos e instrumentos ópticos, peças e acessórios",,Verificar,Alto Consumo
+2670102,"Fabricação de aparelhos fotográficos e cinematográficos, peças e acessórios",,Verificar,Alto Consumo
+2680900,"Fabricação de mídias virgens, magnéticas e ópticas",,Verificar,Alto Consumo
+2710401,"Fabricação de geradores de corrente contínua e alternada, peças e acessórios","1,224,390.00",Alto consumo,Alto Consumo
+2710402,"Fabricação de transformadores, indutores, conversores, sincronizadores e semelhantes, peças e acessórios","3,197,580.00",Alto consumo,Alto Consumo
+2710403,"Fabricação de motores elétricos, peças e acessórios","7,973,990.00",Alto consumo,Alto Consumo
+2721000,"Fabricação de pilhas, baterias e acumuladores elétricos, exceto para veículos automotores","486,693.00",Alto consumo,Alto Consumo
+2722801,Fabricação de baterias e acumuladores para veículos automotores,"7,334,660.00",Alto consumo,Alto Consumo
+2722802,Recondicionamento de baterias e acumuladores para veículos automotores,,Verificar,Alto Consumo
+2731700,Fabricação de aparelhos e equipamentos para distribuição e controle de energia elétrica,"1,587,220.00",Alto consumo,Alto Consumo
+2732500,Fabricação de material elétrico para instalações em circuito de consumo,"1,423,300.00",Alto consumo,Alto Consumo
+2733300,"Fabricação de fios, cabos e condutores elétricos isolados","14,556,100.00",Alto consumo,Alto Consumo
+2740601,Fabricação de lâmpadas,,Verificar,Alto Consumo
+2740602,Fabricação de luminárias e outros equipamentos de iluminação,"139,915.00",Alto consumo,Alto Consumo
+2751100,"Fabricação de fogões, refrigeradores e máquinas de lavar e secar para uso doméstico, peças e acessórios","9,659,910.00",Alto consumo,Alto Consumo
+2759701,"Fabricação de aparelhos elétricos de uso pessoal, peças e acessórios","121,691.00",Alto consumo,Alto Consumo
+2759799,"Fabricação de outros aparelhos eletrodomésticos não especificados anteriormente, peças e acessórios","3,094,200.00",Alto consumo,Alto Consumo
+2790201,"Fabricação de eletrodos, contatos e outros artigos de carvão e grafita para uso elétrico, eletroímãs e isoladores","361,260.00",Alto consumo,Alto Consumo
+2790202,Fabricação de equipamentos para sinalização e alarme,,Verificar,Alto Consumo
+2790299,Fabricação de outros equipamentos e aparelhos elétricos não especificados anteriormente,"2,062,150.00",Alto consumo,Alto Consumo
+2811900,"Fabricação de motores e turbinas, peças e acessórios, exceto para aviões e veículos rodoviários","542,088.00",Alto consumo,Alto Consumo
+2812700,"Fabricação de equipamentos hidráulicos e pneumáticos, peças e acessórios, exceto válvulas","1,576,250.00",Alto consumo,Alto Consumo
+2813500,"Fabricação de válvulas, registros e dispositivos semelhantes, peças e acessórios","3,495,950.00",Alto consumo,Alto Consumo
+2814301,"Fabricação de compressores para uso industrial, peças e acessórios","7,797,760.00",Alto consumo,Alto Consumo
+2814302,"Fabricação de compressores para uso não industrial, peças e acessórios","2,280,130.00",Alto consumo,Alto Consumo
+2815101,Fabricação de rolamentos para fins industriais,"467,600.00",Alto consumo,Alto Consumo
+2815102,"Fabricação de equipamentos de transmissão para fins industriais, exceto rolamentos","2,595,230.00",Alto consumo,Alto Consumo
+2821601,"Fabricação de fornos industriais, aparelhos e equipamentos não-elétricos para instalações térmicas, peças e acessórios","291,651.00",Alto consumo,Alto Consumo
+2821602,"Fabricação de estufas e fornos elétricos para fins industriais, peças e acessórios","75,330.40",Alto consumo,Alto Consumo
+2822401,"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de pessoas, peças e acessórios","300,622.00",Alto consumo,Alto Consumo
+2822402,"Fabricação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas, peças e acessórios","823,796.00",Alto consumo,Alto Consumo
+2823200,"Fabricação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial, peças e acessórios","1,325,310.00",Alto consumo,Alto Consumo
+2824101,Fabricação de aparelhos e equipamentos de ar condicionado para uso industrial,"3,012.54",Alto consumo,Alto Consumo
+2824102,Fabricação de aparelhos e equipamentos de ar condicionado para uso não-industrial,"914,042.00",Alto consumo,Alto Consumo
+2825900,"Fabricação de máquinas e equipamentos para saneamento básico e ambiental, peças e acessórios","54,025.80",Alto consumo,Alto Consumo
+2829101,"Fabricação de máquinas de escrever, calcular e outros equipamentos não-eletrônicos para escritório, peças e acessórios","21,624.50",Alto consumo,Alto Consumo
+2829199,"Fabricação de outras máquinas e equipamentos de uso geral não especificados anteriormente, peças e acessórios","3,515,340.00",Alto consumo,Alto Consumo
+2831300,"Fabricação de tratores agrícolas, peças e acessórios","1,263,540.00",Alto consumo,Alto Consumo
+2832100,"Fabricação de equipamentos para irrigação agrícola, peças e acessórios","237,532.00",Alto consumo,Alto Consumo
+2833000,"Fabricação de máquinas e equipamentos para a agricultura e pecuária, peças e acessórios, exceto para irrigação","8,948,390.00",Alto consumo,Alto Consumo
+2840200,"Fabricação de máquinas-ferramenta, peças e acessórios","2,619,960.00",Alto consumo,Alto Consumo
+2851800,"Fabricação de máquinas e equipamentos para a prospecção e extração de petróleo, peças e acessórios","1,470,070.00",Alto consumo,Alto Consumo
+2852600,"Fabricação de outras máquinas e equipamentos para uso na extração mineral, peças e acessórios, exceto na extração de petróleo","984,870.00",Alto consumo,Alto Consumo
+2853400,"Fabricação de tratores, peças e acessórios, exceto agrícolas","2,671,740.00",Alto consumo,Alto Consumo
+2854200,"Fabricação de máquinas e equipamentos para terraplenagem, pavimentação e construção, peças e acessórios, exceto tratores","1,238,110.00",Alto consumo,Alto Consumo
+2861500,"Fabricação de máquinas para a indústria metalúrgica, peças e acessórios, exceto máquinas-ferramenta","370,847.00",Alto consumo,Alto Consumo
+2862300,"Fabricação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo, peças e acessórios","1,229,030.00",Alto consumo,Alto Consumo
+2863100,"Fabricação de máquinas e equipamentos para a indústria têxtil, peças e acessórios","127,621.00",Alto consumo,Alto Consumo
+2864000,"Fabricação de máquinas e equipamentos para as indústrias do vestuário, do couro e de calçados, peças e acessórios","175,972.00",Alto consumo,Alto Consumo
+2865800,"Fabricação de máquinas e equipamentos para as indústrias de celulose, papel e papelão e artefatos, peças e acessórios","500,445.00",Alto consumo,Alto Consumo
+2866600,"Fabricação de máquinas e equipamentos para a indústria do plástico, peças e acessórios","198,664.00",Alto consumo,Alto Consumo
+2869100,"Fabricação de máquinas e equipamentos para uso industrial específico não especificados anteriormente, peças e acessórios","1,841,890.00",Alto consumo,Alto Consumo
+2910701,"Fabricação de automóveis, camionetas e utilitários","38,018,600.00",Alto consumo,Alto Consumo
+2910702,"Fabricação de chassis com motor para automóveis, camionetas e utilitários","500,041.00",Alto consumo,Alto Consumo
+2910703,"Fabricação de motores para automóveis, camionetas e utilitários","3,434,360.00",Alto consumo,Alto Consumo
+2920401,Fabricação de caminhões e ônibus,"10,583,500.00",Alto consumo,Alto Consumo
+2920402,Fabricação de motores para caminhões e ônibus,"954,569.00",Alto consumo,Alto Consumo
+2930101,"Fabricação de cabines, carrocerias e reboques para caminhões","4,924,280.00",Alto consumo,Alto Consumo
+2930102,Fabricação de carrocerias para ônibus,"961,343.00",Alto consumo,Alto Consumo
+2930103,"Fabricação de cabines, carrocerias e reboques para outros veículos automotores, exceto caminhões e ônibus","334,942.00",Alto consumo,Alto Consumo
+2941700,Fabricação de peças e acessórios para o sistema motor de veículos automotores,"26,111,600.00",Alto consumo,Alto Consumo
+2942500,Fabricação de peças e acessórios para os sistemas de marcha e transmissão de veículos automotores,"8,131,990.00",Alto consumo,Alto Consumo
+2943300,Fabricação de peças e acessórios para o sistema de freios de veículos automotores,"14,244,700.00",Alto consumo,Alto Consumo
+2944100,Fabricação de peças e acessórios para o sistema de direção e suspensão de veículos automotores,"5,485,220.00",Alto consumo,Alto Consumo
+2945000,"Fabricação de material elétrico e eletrônico para veículos automotores, exceto baterias","3,480,410.00",Alto consumo,Alto Consumo
+2949201,Fabricação de bancos e estofados para veículos automotores,"744,107.00",Alto consumo,Alto Consumo
+2949299,Fabricação de outras peças e acessórios para veículos automotores não especificadas anteriormente,"56,066,700.00",Alto consumo,Alto Consumo
+2950600,Recondicionamento e recuperação de motores para veículos automotores,,Verificar,Médio Consumo
+3011301,Construção de embarcações de grande porte,"2,613,710.00",Alto consumo,Alto Consumo
+3011302,"Construção de embarcações para uso comercial e para usos especiais, exceto de grande porte","109,570.00",Alto consumo,Alto Consumo
+3012100,Construção de embarcações para esporte e lazer,,Verificar,Alto Consumo
+3031800,"Fabricação de locomotivas, vagões e outros materiais rodantes","439,166.00",Alto consumo,Alto Consumo
+3032600,Fabricação de peças e acessórios para veículos ferroviários,"258,648.00",Alto consumo,Alto Consumo
+3041500,Fabricação de aeronaves,"3,013,880.00",Alto consumo,Alto Consumo
+3042300,"Fabricação de turbinas, motores e outros componentes e peças para aeronaves","734,105.00",Alto consumo,Alto Consumo
+3050400,Fabricação de veículos militares de combate,,Verificar,Alto Consumo
+3091100,"Fabricação de motocicletas, peças e acessórios",,Verificar,Alto Consumo
+3091101,Fabricação de motocicletas,"6,327,380.00",Alto consumo,Alto Consumo
+3091102,Fabricação de peças e acessórios para motocicletas,"1,319,410.00",Alto consumo,Alto Consumo
+3092000,"Fabricação de bicicletas e triciclos não-motorizados, peças e acessórios","532,716.00",Alto consumo,Alto Consumo
+3099700,Fabricação de equipamentos de transporte não especificados anteriormente,"283,084.00",Alto consumo,Alto Consumo
+3101200,Fabricação de móveis com predominância de madeira,"17,347,700.00",Alto consumo,Alto Consumo
+3102100,Fabricação de móveis com predominância de metal,"1,670,200.00",Alto consumo,Alto Consumo
+3103900,"Fabricação de móveis de outros materiais, exceto madeira e metal","515,095.00",Alto consumo,Alto Consumo
+3104700,Fabricação de colchões,"493,036.00",Alto consumo,Alto Consumo
+3211601,Lapidação de gemas,,Verificar,Alto Consumo
+3211602,Fabricação de artefatos de joalheria e ourivesaria,"100,936.00",Alto consumo,Alto Consumo
+3211603,Cunhagem de moedas e medalhas,,Verificar,Alto Consumo
+3212400,Fabricação de bijuterias e artefatos semelhantes,,Verificar,Alto Consumo
+3220500,"Fabricação de instrumentos musicais, peças e acessórios",,Verificar,Alto Consumo
+3230200,Fabricação de artefatos para pesca e esporte,,Verificar,Alto Consumo
+3240001,Fabricação de jogos eletrônicos,,Verificar,Alto Consumo
+3240002,"Fabricação de mesas de bilhar, de sinuca e acessórios não associada à locação",,Verificar,Alto Consumo
+3240003,"Fabricação de mesas de bilhar, de sinuca e acessórios associada à locação",,Verificar,Alto Consumo
+3240099,Fabricação de outros brinquedos e jogos recreativos não especificados anteriormente,"965,303.00",Alto consumo,Alto Consumo
+3250701,"Fabricação de instrumentos não-eletrônicos e utensílios para uso médico, cirúrgico, odontológico e de laboratório","2,317,930.00",Alto consumo,Alto Consumo
+3250702,"Fabricação de mobiliário para uso médico, cirúrgico, odontológico e de laboratório","27,650.50",Alto consumo,Alto Consumo
+3250703,Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral sob encomenda,,Verificar,Alto Consumo
+3250704,"Fabricação de aparelhos e utensílios para correção de defeitos físicos e aparelhos ortopédicos em geral, exceto sob encomenda","234,328.00",Alto consumo,Alto Consumo
+3250705,Fabricação de materiais para medicina e odontologia,"2,961,620.00",Alto consumo,Alto Consumo
+3250706,Serviços de prótese dentária,,Verificar,Médio Consumo
+3250707,Fabricação de artigos ópticos,"1,435,930.00",Alto consumo,Alto Consumo
+3250708,Fabricação de artefatos de tecido não tecido para uso odonto-médico-hospitalar,,Verificar,Alto Consumo
+3250709,Serviço de laboratório óptico,,Verificar,Alto Consumo
+3291400,"Fabricação de escovas, pincéis e vassouras","1,352,910.00",Alto consumo,Alto Consumo
+3292201,Fabricação de roupas de proteção e segurança e resistentes a fogo,,Verificar,Alto Consumo
+3292202,Fabricação de equipamentos e acessórios para segurança pessoal e profissional,"552,265.00",Alto consumo,Alto Consumo
+3299001,Fabricação de guarda-chuvas e similares,,Verificar,Alto Consumo
+3299002,"Fabricação de canetas, lápis e outros artigos para escritório","691,026.00",Alto consumo,Alto Consumo
+3299003,"Fabricação de letras, letreiros e placas de qualquer material, exceto luminosos",,Verificar,Alto Consumo
+3299004,Fabricação de painéis e letreiros luminosos,"27,830.20",Alto consumo,Alto Consumo
+3299005,Fabricação de aviamentos para costura,"529,322.00",Alto consumo,Alto Consumo
+3299006,"Fabricação de velas, inclusive decorativas","2,569.58",Alto consumo,Alto Consumo
+3299099,Fabricação de produtos diversos não especificados anteriormente,"1,103,080.00",Alto consumo,Alto Consumo
+3311200,"Manutenção e reparação de tanques, reservatórios metálicos e caldeiras, exceto para veículos","95,651.60",Alto consumo,Alto Consumo
+3312101,Manutenção e reparação de equipamentos transmissores de comunicação,,Verificar,Alto Consumo
+3312102,"Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle",,Verificar,Alto Consumo
+3312103,Manutenção e reparação de aparelhos eletromédicos e eletroterapêuticos e equipamentos de irradiação,,Verificar,Alto Consumo
+3312104,Manutenção e reparação de equipamentos e instrumentos ópticos,,Verificar,Alto Consumo
+3313901,"Manutenção e reparação de geradores, transformadores e motores elétricos","92,598.40",Alto consumo,Alto Consumo
+3313902,"Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos",,Verificar,Alto Consumo
+3313999,"Manutenção e reparação de máquinas, aparelhos e materiais elétricos não especificados anteriormente","51,007.50",Alto consumo,Alto Consumo
+3314701,Manutenção e reparação de máquinas motrizes não-elétricas,,Verificar,Alto Consumo
+3314702,"Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas",,Verificar,Alto Consumo
+3314703,Manutenção e reparação de válvulas industriais,,Verificar,Alto Consumo
+3314704,Manutenção e reparação de compressores,"1,868.35",Alto consumo,Alto Consumo
+3314705,Manutenção e reparação de equipamentos de transmissão para fins industriais,,Verificar,Alto Consumo
+3314706,"Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas",,Verificar,Alto Consumo
+3314707,Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial,,Verificar,Alto Consumo
+3314708,"Manutenção e reparação de máquinas, equipamentos e aparelhos para transporte e elevação de cargas",,Verificar,Alto Consumo
+3314709,"Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não-eletrônicos para escritório",,Verificar,Alto Consumo
+3314710,Manutenção e reparação de máquinas e equipamentos para uso geral não especificados anteriormente,"56,450.90",Alto consumo,Alto Consumo
+3314711,Manutenção e reparação de máquinas e equipamentos para agricultura e pecuária,,Verificar,Alto Consumo
+3314712,Manutenção e reparação de tratores agrícolas,,Verificar,Alto Consumo
+3314713,Manutenção e reparação de máquinas-ferramenta,"29,630.40",Alto consumo,Alto Consumo
+3314714,Manutenção e reparação de máquinas e equipamentos para a prospecção e extração de petróleo,"51,217.60",Alto consumo,Alto Consumo
+3314715,"Manutenção e reparação de máquinas e equipamentos para uso na extração mineral, exceto na extração de petróleo",,Verificar,Alto Consumo
+3314716,"Manutenção e reparação de tratores, exceto agrícolas",,Verificar,Alto Consumo
+3314717,"Manutenção e reparação de máquinas e equipamentos de terraplenagem, pavimentação e construção, exceto tratores",,Verificar,Alto Consumo
+3314718,"Manutenção e reparação de máquinas para a indústria metalúrgica, exceto máquinas-ferramenta",,Verificar,Alto Consumo
+3314719,"Manutenção e reparação de máquinas e equipamentos para as indústrias de alimentos, bebidas e fumo",,Verificar,Alto Consumo
+3314720,"Manutenção e reparação de máquinas e equipamentos para a indústria têxtil, do vestuário, do couro e calçados",,Verificar,Alto Consumo
+3314721,"Manutenção e reparação de máquinas e aparelhos para a indústria de celulose, papel e papelão e artefatos",,Verificar,Alto Consumo
+3314722,Manutenção e reparação de máquinas e aparelhos para a indústria do plástico,"48,439.40",Alto consumo,Alto Consumo
+3314799,Manutenção e reparação de outras máquinas e equipamentos para usos industriais não especificados anteriormente,"70,720.30",Alto consumo,Alto Consumo
+3315500,Manutenção e reparação de veículos ferroviários,"22,274.80",Alto consumo,Alto Consumo
+3316301,"Manutenção e reparação de aeronaves, exceto a manutenção na pista","1,013,880.00",Alto consumo,Alto Consumo
+3316302,Manutenção de aeronaves na pista,"64,104.40",Alto consumo,Alto Consumo
+3317101,Manutenção e reparação de embarcações e estruturas flutuantes,"25,896.80",Alto consumo,Alto Consumo
+3317102,Manutenção e reparação de embarcações para esporte e lazer,,Verificar,Alto Consumo
+3319800,Manutenção e reparação de equipamentos e produtos não especificados anteriormente,"32,829.70",Alto consumo,Alto Consumo
+3321000,Instalação de máquinas e equipamentos industriais,470.70,Alto consumo,Alto Consumo
+3329501,Serviços de montagem de móveis de qualquer material,,Verificar,Alto Consumo
+3329599,Instalação de outros equipamentos não especificados anteriormente,"58,581.70",Alto consumo,Alto Consumo
+3511500,Geração de energia elétrica,,Verificar,Alto Consumo
+3511501,Geração de energia elétrica,"9,448,170.00",Alto consumo,Alto Consumo
+3511502,Atividades de coordenação e controle da operação da geração e transmissão de energia elétrica,"35,995.20",Alto consumo,Alto Consumo
+3512300,Transmissão de energia elétrica,"693,543.00",Alto consumo,Alto Consumo
+3513100,Comércio atacadista de energia elétrica,"75,994,500.00",Alto consumo,Alto Consumo
+3514000,Distribuição de energia elétrica,"8,467,620,000.00",Alto consumo,Alto Consumo
+3520401,Produção de gás; processamento de gás natural,"3,097,770.00",Alto consumo,Alto Consumo
+3520402,Distribuição de combustíveis gasosos por redes urbanas,"195,104.00",Alto consumo,Alto Consumo
+3530100,"Produção e distribuição de vapor, água quente e ar condicionado","319,990.00",Alto consumo,Alto Consumo
+3600601,"Captação, tratamento e distribuição de água","185,561,000.00",Alto consumo,Alto Consumo
+3600602,Distribuição de água por caminhões,,Verificar,Alto Consumo
+3701100,Gestão de redes de esgoto,"7,761,380.00",Alto consumo,Alto Consumo
+3702900,"Atividades relacionadas a esgoto, exceto a gestão de redes","781,273.00",Alto consumo,Alto Consumo
+3811400,Coleta de resíduos não-perigosos,"504,318.00",Alto consumo,Alto Consumo
+3812200,Coleta de resíduos perigosos,,Verificar,Alto Consumo
+3821100,Tratamento e disposição de resíduos não-perigosos,"436,126.00",Alto consumo,Alto Consumo
+3822000,Tratamento e disposição de resíduos perigosos,"717,892.00",Alto consumo,Alto Consumo
+3831901,Recuperação de sucatas de alumínio,"118,699.00",Alto consumo,Alto Consumo
+3831999,"Recuperação de materiais metálicos, exceto alumínio","686,160.00",Alto consumo,Alto Consumo
+3832700,Recuperação de materiais plásticos,"10,640,100.00",Alto consumo,Alto Consumo
+3839401,Usinas de compostagem,"79,174.30",Alto consumo,Alto Consumo
+3839499,Recuperação de materiais não especificados anteriormente,"2,780,900.00",Alto consumo,Alto Consumo
+3900500,Descontaminação e outros serviços de gestão de resíduos,,Verificar,Alto Consumo
+4110700,Incorporação de empreendimentos imobiliários,"2,088,000.00",Alto consumo,Alto Consumo
+4120400,Construção de edifícios,"3,346,360.00",Alto consumo,Alto Consumo
+4211101,Construção de rodovias e ferrovias,"371,536.00",Alto consumo,Alto Consumo
+4211102,Pintura para sinalização em pistas rodoviárias e aeroportos,,Verificar,Alto Consumo
+4212000,Construção de obras de arte especiais,"1,394.19",Alto consumo,Alto Consumo
+4213800,"Obras de urbanização - ruas, praças e calçadas",,Verificar,Alto Consumo
+4221901,Construção de barragens e represas para geração de energia elétrica,,Verificar,Alto Consumo
+4221902,Construção de estações e redes de distribuição de energia elétrica,"106,510.00",Alto consumo,Alto Consumo
+4221903,Manutenção de redes de distribuição de energia elétrica,,Verificar,Alto Consumo
+4221904,Construção de estações e redes de telecomunicações,"176,375.00",Alto consumo,Alto Consumo
+4221905,Manutenção de estações e redes de telecomunicações,,Verificar,Baixo Consumo
+4222701,"Construção de redes de abastecimento de água, coleta de esgoto e construções correlatas, exceto obras de irrigação","60,961.30",Alto consumo,Alto Consumo
+4222702,Obras de irrigação,,Verificar,Alto Consumo
+4223500,"Construção de redes de transportes por dutos, exceto para água e esgoto",,Verificar,Alto Consumo
+4291000,"Obras portuárias, marítimas e fluviais",,Verificar,Alto Consumo
+4292801,Montagem de estruturas metálicas,"12,231.10",Alto consumo,Baixo Consumo
+4292802,Obras de montagem industrial,"4,296.20",Alto consumo,Alto Consumo
+4299501,Construção de instalações esportivas e recreativas,,Verificar,Alto Consumo
+4299599,Outras obras de engenharia civil não especificadas anteriormente,"138,895.00",Alto consumo,Alto Consumo
+4311801,Demolição de edifícios e outras estruturas,,Verificar,Alto Consumo
+4311802,Preparação de canteiro e limpeza de terreno,,Verificar,Alto Consumo
+4312600,Perfurações e sondagens,,Verificar,Alto Consumo
+4313400,Obras de terraplenagem,"257,355.00",Alto consumo,Alto Consumo
+4319300,Serviços de preparação do terreno não especificados anteriormente,,Verificar,Alto Consumo
+4321500,Instalação e manutenção elétrica,"102,838.00",Alto consumo,Alto Consumo
+4322301,"Instalações hidráulicas, sanitárias e de gás",107.08,Alto consumo,Alto Consumo
+4322302,"Instalação e manutenção de sistemas centrais de ar condicionado, de ventilação e refrigeração",,Verificar,Baixo Consumo
+4322303,Instalações de sistema de prevenção contra incêndio,"15,986.60",Alto consumo,Baixo Consumo
+4329101,Instalação de painéis publicitários,,Verificar,Alto Consumo
+4329102,Instalação de equipamentos para orientação à navegação marítima fluvial e lacustre,,Verificar,Alto Consumo
+4329103,"Instalação, manutenção e reparação de elevadores, escadas e esteiras rolantes","6,141.68",Alto consumo,Baixo Consumo
+4329104,"Montagem e instalação de sistemas e equipamentos de iluminação e sinalização em vias públicas, portos e aeroportos",,Verificar,Alto Consumo
+4329105,"Tratamentos térmicos, acústicos ou de vibração",,Verificar,Baixo Consumo
+4329199,Outras obras de instalações em construções não especificadas anteriormente,"16,524.50",Alto consumo,Baixo Consumo
+4330401,Impermeabilização em obras de engenharia civil,,Verificar,Alto Consumo
+4330402,"Instalação de portas, janelas, tetos, divisórias e armários embutidos de qualquer material","68,217.40",Alto consumo,Baixo Consumo
+4330403,Obras de acabamento em gesso e estuque,,Verificar,Baixo Consumo
+4330404,Serviços de pintura de edifícios em geral,,Verificar,Baixo Consumo
+4330405,Aplicação de revestimentos e de resinas em interiores e exteriores,,Verificar,Baixo Consumo
+4330499,Outras obras de acabamento da construção,,Verificar,Baixo Consumo
+4391600,Obras de fundações,,Verificar,Alto Consumo
+4399101,Administração de obras,,Verificar,Baixo Consumo
+4399102,Montagem e desmontagem de andaimes e outras estruturas temporárias,,Verificar,Baixo Consumo
+4399103,Obras de alvenaria,,Verificar,Baixo Consumo
+4399104,Serviços de operação e fornecimento de equipamentos para transporte e elevação de cargas e pessoas para uso em obras,"7,672.34",Alto consumo,Alto Consumo
+4399105,Perfuração e construção de poços de água,,Verificar,Alto Consumo
+4399199,Serviços especializados para construção não especificados anteriormente,"93,685.20",Alto consumo,Alto Consumo
+4511101,"Comércio a varejo de automóveis, camionetas e utilitários novos","424,672.00",Alto consumo,Médio Consumo
+4511102,"Comércio a varejo de automóveis, camionetas e utilitários usados","39,065.10",Alto consumo,Médio Consumo
+4511103,"Comércio por atacado de automóveis, camionetas e utilitários novos e usados","76,465.80",Alto consumo,Médio Consumo
+4511104,Comércio por atacado de caminhões novos e usados,"69,636.60",Alto consumo,Médio Consumo
+4511105,Comércio por atacado de reboques e semi-reboques novos e usados,,Verificar,Médio Consumo
+4511106,Comércio por atacado de ônibus e microônibus novos e usados,,Verificar,Médio Consumo
+4512901,Representantes comerciais e agentes do comércio de veículos automotores,,Verificar,Baixo Consumo
+4512902,Comércio sob consignação de veículos automotores,,Verificar,Médio Consumo
+4520001,Serviços de manutenção e reparação mecânica de veículos automotores,"75,138.80",Alto consumo,Médio Consumo
+4520002,Serviços de lanternagem ou funilaria e pintura de veículos automotores,,Verificar,Médio Consumo
+4520003,Serviços de manutenção e reparação elétrica de veículos automotores,,Verificar,Médio Consumo
+4520004,Serviços de alinhamento e balanceamento de veículos automotores,,Verificar,Médio Consumo
+4520005,"Serviços de lavagem, lubrificação e polimento de veículos automotores",,Verificar,Médio Consumo
+4520006,Serviços de borracharia para veículos automotores,,Verificar,Baixo Consumo
+4520007,"Serviços de instalação, manutenção e reparação de acessórios para veículos automotores","78,446.10",Alto consumo,Médio Consumo
+4520008,Serviços de capotaria,,Verificar,Médio Consumo
+4530701,Comércio por atacado de peças e acessórios novos para veículos automotores,"318,671.00",Alto consumo,Médio Consumo
+4530702,Comércio por atacado de pneumáticos e câmaras-de-ar,,Verificar,Médio Consumo
+4530703,Comércio a varejo de peças e acessórios novos para veículos automotores,"217,938.00",Alto consumo,Médio Consumo
+4530704,Comércio a varejo de peças e acessórios usados para veículos automotores,,Verificar,Médio Consumo
+4530705,Comércio a varejo de pneumáticos e câmaras-de-ar,,Verificar,Médio Consumo
+4530706,Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores,"88,810.00",Alto consumo,Baixo Consumo
+4541201,Comércio por atacado de motocicletas e motonetas,"34,640.80",Alto consumo,Médio Consumo
+4541202,Comércio por atacado de peças e acessórios para motocicletas e motonetas,,Verificar,Alto Consumo
+4541203,Comércio a varejo de motocicletas e motonetas novas,,Verificar,Médio Consumo
+4541204,Comércio a varejo de motocicletas e motonetas usadas,,Verificar,Médio Consumo
+4541205,Comércio a varejo de peças e acessórios para motocicletas e motonetas,,Verificar,Médio Consumo
+4541206,Comércio a varejo de peças e acessórios novos para  motocicletas e motonetas,,Verificar,Médio Consumo
+4541207,Comércio a varejo de peças e acessórios usados para motocicletas e motonetas,,Verificar,Médio Consumo
+4542101,"Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios",,Verificar,Médio Consumo
+4542102,Comércio sob consignação de motocicletas e motonetas,,Verificar,Médio Consumo
+4543900,Manutenção e reparação de motocicletas e motonetas,,Verificar,Médio Consumo
+4611700,Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos,"149,122.00",Alto consumo,Médio Consumo
+4612500,"Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos",,Verificar,Médio Consumo
+4613300,"Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens",,Verificar,Médio Consumo
+4614100,"Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves",,Verificar,Médio Consumo
+4615000,"Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico",,Verificar,Médio Consumo
+4616800,"Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem",,Verificar,Médio Consumo
+4617600,"Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo","2,677.36",Alto consumo,Médio Consumo
+4618401,"Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria",,Verificar,Médio Consumo
+4618402,Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares,,Verificar,Médio Consumo
+4618403,"Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações",,Verificar,Médio Consumo
+4618499,Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente,"38,701.00",Alto consumo,Alto Consumo
+4619200,Representantes comerciais e agentes do comércio de mercadorias em geral não especializado,"2,582.70",Alto consumo,Alto Consumo
+4621400,Comércio atacadista de café em grão,"729,679.00",Alto consumo,Alto Consumo
+4622200,Comércio atacadista de soja,"3,688,530.00",Alto consumo,Alto Consumo
+4623101,Comércio atacadista de animais vivos,"23,184.90",Alto consumo,Alto Consumo
+4623102,"Comércio atacadista de couros, lãs, peles e outros subprodutos não-comestíveis de origem animal","58,162.10",Alto consumo,Alto Consumo
+4623103,Comércio atacadista de algodão,,Verificar,
+4623104,Comércio atacadista de fumo em folha não beneficiado,"3,375.88",Alto consumo,
+4623105,Comércio atacadista de cacau,,Verificar,
+4623106,"Comércio atacadista de sementes, flores, plantas e gramas","595,622.00",Alto consumo,
+4623107,Comércio atacadista de sisal,,Verificar,
+4623108,Comércio atacadista de matérias-primas agrícolas com atividade de fracionamento e acondicionamento associada,"59,566.90",Alto consumo,Alto Consumo
+4623109,Comércio atacadista de alimentos para animais,"27,046.90",Alto consumo,Alto Consumo
+4623199,Comércio atacadista de matérias-primas agrícolas não especificadas anteriormente,"9,995,210.00",Alto consumo,Alto Consumo
+4631100,Comércio atacadista de leite e laticínios,"621,715.00",Alto consumo,Alto Consumo
+4632001,Comércio atacadista de cereais e leguminosas beneficiados,"5,115,140.00",Alto consumo,Alto Consumo
+4632002,"Comércio atacadista de farinhas, amidos e féculas","95,159.70",Alto consumo,Alto Consumo
+4632003,"Comércio atacadista de cereais e leguminosas beneficiados, farinhas, amidos e féculas, com atividade de fracionamento e acondicionamento associada","209,056.00",Alto consumo,Alto Consumo
+4633801,"Comércio atacadista de frutas, verduras, raízes, tubérculos, hortaliças e legumes frescos","1,172,940.00",Alto consumo,Alto Consumo
+4633802,Comércio atacadista de aves vivas e ovos,"96,979.50",Alto consumo,Alto Consumo
+4633803,Comércio atacadista de coelhos e outros pequenos animais vivos para alimentação,,Verificar,Alto Consumo
+4634601,Comércio atacadista de carnes bovinas e suínas e derivados,"3,057,170.00",Alto consumo,Alto Consumo
+4634602,Comércio atacadista de aves abatidas e derivados,"458,544.00",Alto consumo,Alto Consumo
+4634603,Comércio atacadista de pescados e frutos do mar,"249,002.00",Alto consumo,Alto Consumo
+4634699,Comércio atacadista de carnes e derivados de outros animais,"11,020.70",Alto consumo,Alto Consumo
+4635401,Comércio atacadista de água mineral,"77,813.50",Alto consumo,Alto Consumo
+4635402,"Comércio atacadista de cerveja, chope e refrigerante","909,303.00",Alto consumo,Alto Consumo
+4635403,Comércio atacadista de bebidas com atividade de fracionamento e acondicionamento associada,"18,885.10",Alto consumo,Alto Consumo
+4635499,Comércio atacadista de bebidas não especificadas anteriormente,"125,799.00",Alto consumo,Alto Consumo
+4636201,Comércio atacadista de fumo beneficiado,"26,951.30",Alto consumo,Alto Consumo
+4636202,"Comércio atacadista de cigarros, cigarrilhas e charutos",,Verificar,Alto Consumo
+4637101,"Comércio atacadista de café torrado, moído e solúvel",,Verificar,Alto Consumo
+4637102,Comércio atacadista de açúcar,"73,509.80",Alto consumo,Alto Consumo
+4637103,Comércio atacadista de óleos e gorduras,,Verificar,Alto Consumo
+4637104,"Comércio atacadista de pães, bolos, biscoitos e similares","58,929.10",Alto consumo,Alto Consumo
+4637105,Comércio atacadista de massas alimentícias,74.93,Alto consumo,Alto Consumo
+4637106,Comércio atacadista de sorvetes,"124,323.00",Alto consumo,Alto Consumo
+4637107,"Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes","103,287.00",Alto consumo,Alto Consumo
+4637199,Comércio atacadista especializado em outros produtos alimentícios não especificados anteriormente,"436,571.00",Alto consumo,Alto Consumo
+4639701,Comércio atacadista de produtos alimentícios em geral,"10,664,000.00",Alto consumo,Alto Consumo
+4639702,"Comércio atacadista de produtos alimentícios em geral, com atividade de fracionamento e acondicionamento associada","277,208.00",Alto consumo,Alto Consumo
+4641901,Comércio atacadista de tecidos,"170,314.00",Alto consumo,Alto Consumo
+4641902,"Comércio atacadista de artigos de cama, mesa e banho","56,183.70",Alto consumo,Alto Consumo
+4641903,Comércio atacadista de artigos de armarinho,,Verificar,Alto Consumo
+4642701,"Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança","416,288.00",Alto consumo,Alto Consumo
+4642702,Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho,,Verificar,Alto Consumo
+4643501,Comércio atacadista de calçados,"5,062.91",Alto consumo,Alto Consumo
+4643502,"Comércio atacadista de bolsas, malas e artigos de viagem",,Verificar,Alto Consumo
+4644301,Comércio atacadista de medicamentos e drogas de uso humano,"1,343,940.00",Alto consumo,Alto Consumo
+4644302,Comércio atacadista de medicamentos e drogas de uso veterinário,"205,209.00",Alto consumo,Alto Consumo
+4645101,"Comércio atacadista de instrumentos e materiais para uso médico, cirúrgico, hospitalar e de laboratórios","64,154.50",Alto consumo,Alto Consumo
+4645102,Comércio atacadista de próteses e artigos de ortopedia,,Verificar,Alto Consumo
+4645103,Comércio atacadista de produtos odontológicos,,Verificar,Alto Consumo
+4646001,Comércio atacadista de cosméticos e produtos de perfumaria,"1,002,070.00",Alto consumo,Alto Consumo
+4646002,Comércio atacadista de produtos de higiene pessoal,"336,906.00",Alto consumo,Alto Consumo
+4647801,Comércio atacadista de artigos de escritório e de papelaria,"25,941.60",Alto consumo,Alto Consumo
+4647802,"Comércio atacadista de livros, jornais e outras publicações","2,169.93",Alto consumo,Alto Consumo
+4649401,Comércio atacadista de equipamentos elétricos de uso pessoal e doméstico,"95,501.30",Alto consumo,Alto Consumo
+4649402,Comércio atacadista de aparelhos eletrônicos de uso pessoal e doméstico,"7,252.23",Alto consumo,Alto Consumo
+4649403,"Comércio atacadista de bicicletas, triciclos e outros veículos recreativos",,Verificar,Alto Consumo
+4649404,Comércio atacadista de móveis e artigos de colchoaria,"63,302.10",Alto consumo,Alto Consumo
+4649405,Comércio atacadista de artigos de tapeçaria; persianas e cortinas,,Verificar,Alto Consumo
+4649406,"Comércio atacadista de lustres, luminárias e abajures","32,121.60",Alto consumo,Alto Consumo
+4649407,"Comércio atacadista de filmes, CDs, DVDs, fitas e discos","120,059.00",Alto consumo,Alto Consumo
+4649408,"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar","96,470.50",Alto consumo,Alto Consumo
+4649409,"Comércio atacadista de produtos de higiene, limpeza e conservação domiciliar, com atividade de fracionamento e acondicionamento associada",,Verificar,Alto Consumo
+4649410,"Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas",,Verificar,Alto Consumo
+4649499,Comércio atacadista de outros equipamentos e artigos de uso pessoal e doméstico não especificados anteriormente,"295,129.00",Alto consumo,Alto Consumo
+4651601,Comércio atacadista de equipamentos de informática,,Verificar,Alto Consumo
+4651602,Comércio atacadista de suprimentos para informática,,Verificar,Alto Consumo
+4652400,Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação,"428,679.00",Alto consumo,Alto Consumo
+4661300,"Comércio atacadista de máquinas, aparelhos e equipamentos para uso agropecuário; partes e peças","145,829.00",Alto consumo,Alto Consumo
+4662100,"Comércio atacadista de máquinas, equipamentos para terraplenagem, mineração e construção; partes e peças",,Verificar,Alto Consumo
+4663000,Comércio atacadista de Máquinas e equipamentos para uso industrial; partes e peças,"265,256.00",Alto consumo,Alto Consumo
+4664800,"Comércio atacadista de máquinas, aparelhos e equipamentos para uso odonto-médico-hospitalar; partes e peças","116,904.00",Alto consumo,Alto Consumo
+4665600,Comércio atacadista de máquinas e equipamentos para uso comercial; partes e peças,"121,430.00",Alto consumo,Alto Consumo
+4669901,Comércio atacadista de bombas e compressores; partes e peças,"66,507.40",Alto consumo,Alto Consumo
+4669999,Comércio atacadista de outras máquinas e equipamentos não especificados anteriormente; partes e peças,"119,736.00",Alto consumo,Alto Consumo
+4671100,Comércio atacadista de madeira e produtos derivados,"1,067,280.00",Alto consumo,Alto Consumo
+4672900,Comércio atacadista de ferragens e ferramentas,"198,860.00",Alto consumo,Alto Consumo
+4673700,Comércio atacadista de material elétrico,"175,801.00",Alto consumo,Alto Consumo
+4674500,Comércio atacadista de cimento,"196,274.00",Alto consumo,Alto Consumo
+4679601,"Comércio atacadista de tintas, vernizes e similares","125,731.00",Alto consumo,Alto Consumo
+4679602,Comércio atacadista de mármores e granitos,"673,222.00",Alto consumo,Alto Consumo
+4679603,"Comércio atacadista de vidros, espelhos, vitrais e molduras","200,020.00",Alto consumo,Alto Consumo
+4679604,Comércio atacadista especializado de materiais de construção não especificados anteriormente,"735,781.00",Alto consumo,Alto Consumo
+4679699,Comércio atacadista de materiais de construção em geral,"346,157.00",Alto consumo,Alto Consumo
+4681801,"Comércio atacadista de álcool carburante, biodiesel, gasolina e demais derivados de petróleo, exceto lubrificantes, não realizado por transportador re","8,711,860.00",Alto consumo,Alto Consumo
+4681802,Comércio atacadista de combustíveis realizado por transportador retalhista (T.R.R.),"51,457.70",Alto consumo,Alto Consumo
+4681803,"Comércio atacadista de combustíveis de origem vegetal, exceto álcool carburante","82,055.50",Alto consumo,Alto Consumo
+4681804,Comércio atacadista de combustíveis de origem mineral em bruto,,Verificar,Alto Consumo
+4681805,Comércio atacadista de lubrificantes,"23,068.00",Alto consumo,Alto Consumo
+4682600,Comércio atacadista de gás liqüefeito de petróleo (GLP),"1,347,110.00",Alto consumo,Alto Consumo
+4683400,"Comércio atacadista de defensivos agrícolas, adubos, fertilizantes e corretivos do solo","842,101.00",Alto consumo,Alto Consumo
+4684201,Comércio atacadista de resinas e elastômeros,"68,631.10",Alto consumo,Alto Consumo
+4684202,Comércio atacadista de solventes,,Verificar,Alto Consumo
+4684299,Comércio atacadista de outros produtos químicos e petroquímicos não especificados anteriormente,"249,539.00",Alto consumo,Alto Consumo
+4685100,"Comércio atacadista de produtos siderúrgicos e metalúrgicos, exceto para construção","441,130.00",Alto consumo,Alto Consumo
+4686901,Comércio atacadista de papel e papelão em bruto,"101,756.00",Alto consumo,Alto Consumo
+4686902,Comércio atacadista de embalagens,"669,580.00",Alto consumo,Alto Consumo
+4687701,Comércio atacadista de resíduos de papel e papelão,"210,600.00",Alto consumo,Alto Consumo
+4687702,"Comércio atacadista de resíduos e sucatas não-metálicos, exceto de papel e papelão","544,648.00",Alto consumo,Alto Consumo
+4687703,Comércio atacadista de resíduos e sucatas metálicos,"507,622.00",Alto consumo,Alto Consumo
+4689301,"Comércio atacadista de produtos da extração mineral, exceto combustíveis","8,744,380.00",Alto consumo,Alto Consumo
+4689302,Comércio atacadista de fios e fibras beneficiados,,Verificar,Alto Consumo
+4689399,Comércio atacadista especializado em outros produtos intermediários não especificados anteriormente,"1,489,040.00",Alto consumo,Alto Consumo
+4691500,"Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios","13,326,600.00",Alto consumo,Alto Consumo
+4692300,"Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários","924,948.00",Alto consumo,Alto Consumo
+4693100,"Comércio atacadista de mercadorias em geral, sem predominância de alimentos ou de insumos agropecuários","4,601,170.00",Alto consumo,Alto Consumo
+4711301,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - hipermercados","87,048,000.00",Alto consumo,Alto Consumo
+4711302,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - supermercados","155,372,000.00",Alto consumo,Alto Consumo
+4712100,"Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns","2,051,320.00",Alto consumo,Alto Consumo
+4713001,Lojas de departamentos ou magazines,,Verificar,Alto Consumo
+4713002,"Lojas de variedades, exceto lojas de departamentos ou magazines","35,014.70",Alto consumo,Alto Consumo
+4713003,Lojas duty free de aeroportos internacionais,,Verificar,Alto Consumo
+4713004,"Lojas de departamentos ou magazines, exceto lojas francas (Duty free)","6,468,460.00",Alto consumo,Alto Consumo
+4713005,"Lojas francas (Duty free) de aeroportos, portos e em fronteiras terrestres",,Verificar,Alto Consumo
+4721101,Padaria e confeitaria com predominância de produção própria,,Verificar,Médio Consumo
+4721102,Padaria e confeitaria com predominância de revenda,"754,848.00",Alto consumo,Médio Consumo
+4721103,Comércio varejista de laticínios e frios,"5,358.04",Alto consumo,Médio Consumo
+4721104,"Comércio varejista de doces, balas, bombons e semelhantes","3,300.24",Alto consumo,Médio Consumo
+4722901,Comércio varejista de carnes - açougues,"349,967.00",Alto consumo,Médio Consumo
+4722902,Peixaria,"7,848.55",Alto consumo,Médio Consumo
+4723700,Comércio varejista de bebidas,"74,302.20",Alto consumo,Médio Consumo
+4724500,Comércio varejista de hortifrutigranjeiros,"1,329,770.00",Alto consumo,Médio Consumo
+4729601,Tabacaria,,Verificar,Médio Consumo
+4729602,Comércio varejista de mercadorias em lojas de conveniência,"36,307.30",Alto consumo,Médio Consumo
+4729699,Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente,"1,873,720.00",Alto consumo,Médio Consumo
+4731800,Comércio varejista de combustíveis para veículos automotores,"4,307,360.00",Alto consumo,Médio Consumo
+4732600,Comércio varejista de lubrificantes,,Verificar,Médio Consumo
+4741500,Comércio varejista de tintas e materiais para pintura,"1,236.56",Alto consumo,Médio Consumo
+4742300,Comércio varejista de material elétrico,"6,076.17",Alto consumo,Médio Consumo
+4743100,Comércio varejista de vidros,"146,265.00",Alto consumo,Médio Consumo
+4744001,Comércio varejista de ferragens e ferramentas,"31,177.00",Alto consumo,Médio Consumo
+4744002,Comércio varejista de madeira e artefatos,"248,237.00",Alto consumo,Médio Consumo
+4744003,Comércio varejista de materiais hidráulicos,,Verificar,Médio Consumo
+4744004,"Comércio varejista de cal, areia, pedra britada, tijolos e telhas","5,161.66",Alto consumo,Médio Consumo
+4744005,Comércio varejista de materiais de construção não especificados anteriormente,"766,688.00",Alto consumo,Médio Consumo
+4744006,Comércio varejista de pedras para revestimento,,Verificar,Médio Consumo
+4744099,Comércio varejista de materiais de construção em geral,"5,173,100.00",Alto consumo,Médio Consumo
+4751200,Comércio varejista especializado de equipamentos e suprimentos de informática,,Verificar,Médio Consumo
+4751201,Comércio varejista especializado de equipamentos e suprimentos de informática,"1,333,100.00",Alto consumo,Médio Consumo
+4751202,Recarga de cartuchos para equipamentos de informática,,Verificar,Médio Consumo
+4752100,Comércio varejista especializado de equipamentos de telefonia e comunicação,"3,975.14",Alto consumo,Médio Consumo
+4753900,Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo,"2,376,580.00",Alto consumo,Médio Consumo
+4754701,Comércio varejista de móveis,"486,160.00",Alto consumo,Médio Consumo
+4754702,Comércio varejista de artigos de colchoaria,,Verificar,Médio Consumo
+4754703,Comércio varejista de artigos de iluminação,,Verificar,Médio Consumo
+4755501,Comércio varejista de tecidos,"29,121.10",Alto consumo,Médio Consumo
+4755502,Comercio varejista de artigos de armarinho,"155,237.00",Alto consumo,Médio Consumo
+4755503,"Comercio varejista de artigos de cama, mesa e banho",275.27,Alto consumo,Médio Consumo
+4756300,Comércio varejista especializado de instrumentos musicais e acessórios,,Verificar,Médio Consumo
+4757100,"Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação","12,562.00",Alto consumo,Médio Consumo
+4759801,"Comércio varejista de artigos de tapeçaria, cortinas e persianas",,Verificar,Médio Consumo
+4759899,Comércio varejista de outros artigos de uso pessoal e doméstico não especificados anteriormente,"132,293.00",Alto consumo,Médio Consumo
+4761001,Comércio varejista de livros,"166,020.00",Alto consumo,Médio Consumo
+4761002,Comércio varejista de jornais e revistas,,Verificar,Médio Consumo
+4761003,Comércio varejista de artigos de papelaria,"161,052.00",Alto consumo,Médio Consumo
+4762800,"Comércio varejista de discos, CDs, DVDs e fitas",,Verificar,Médio Consumo
+4763601,Comércio varejista de brinquedos e artigos recreativos,,Verificar,Médio Consumo
+4763602,Comércio varejista de artigos esportivos,"963,190.00",Alto consumo,Médio Consumo
+4763603,Comércio varejista de bicicletas e triciclos; peças e acessórios,,Verificar,Médio Consumo
+4763604,"Comércio varejista de artigos de caça, pesca e camping","4,682.30",Alto consumo,Médio Consumo
+4763605,Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios,"3,684.37",Alto consumo,Médio Consumo
+4771701,"Comércio varejista de produtos farmacêuticos, sem manipulação de fórmulas","668,413.00",Alto consumo,Médio Consumo
+4771702,"Comércio varejista de produtos farmacêuticos, com manipulação de fórmulas","14,203.40",Alto consumo,Médio Consumo
+4771703,Comércio varejista de produtos farmacêuticos homeopáticos,,Verificar,Médio Consumo
+4771704,Comércio varejista de medicamentos veterinários,"37,639.10",Alto consumo,Médio Consumo
+4772500,"Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal","96,775.50",Alto consumo,Médio Consumo
+4773300,Comércio varejista de artigos médicos e ortopédicos,,Verificar,Médio Consumo
+4774100,Comércio varejista de artigos de óptica,469.02,Alto consumo,Médio Consumo
+4781400,Comércio varejista de artigos do vestuário e acessórios,"9,979,820.00",Alto consumo,Médio Consumo
+4782201,Comércio varejista de calçados,"255,031.00",Alto consumo,Médio Consumo
+4782202,Comércio varejista de artigos de viagem,,Verificar,Médio Consumo
+4783101,Comércio varejista de artigos de joalheria,,Verificar,Médio Consumo
+4783102,Comércio varejista de artigos de relojoaria,,Verificar,Médio Consumo
+4784900,Comércio varejista de gás liqüefeito de petróleo (GLP),"20,990.90",Alto consumo,Médio Consumo
+4785701,Comércio varejista de antigüidades,,Verificar,Médio Consumo
+4785799,Comércio varejista de outros artigos usados,,Verificar,Médio Consumo
+4789001,"Comércio varejista de suvenires, bijuterias e artesanatos",,Verificar,Médio Consumo
+4789002,Comércio varejista de plantas e flores naturais,,Verificar,Médio Consumo
+4789003,Comércio varejista de objetos de arte,,Verificar,Médio Consumo
+4789004,Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação,"1,148,630.00",Alto consumo,Médio Consumo
+4789005,Comércio varejista de produtos saneantes domissanitários,,Verificar,Médio Consumo
+4789006,Comércio varejista de fogos de artifício e artigos pirotécnicos,,Verificar,Médio Consumo
+4789007,Comércio varejista de equipamentos para escritório,,Verificar,Médio Consumo
+4789008,Comércio varejista de artigos fotográficos e para filmagem,,Verificar,Médio Consumo
+4789009,Comércio varejista de armas e munições,,Verificar,Médio Consumo
+4789099,Comércio varejista de outros produtos não especificados anteriormente,"1,799,290.00",Alto consumo,Médio Consumo
+4911600,Transporte ferroviário de carga,"2,685,100.00",Alto consumo,Alto Consumo
+4912401,Transporte ferroviário de passageiros intermunicipal e interestadual,,Verificar,Alto Consumo
+4912402,Transporte ferroviário de passageiros municipal e em região metropolitana,"18,113,800.00",Alto consumo,Alto Consumo
+4912403,Transporte metroviário,"22,771,400.00",Alto consumo,Alto Consumo
+4921301,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, municipal","422,385.00",Alto consumo,Alto Consumo
+4921302,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal em região metropolitana","85,360.60",Alto consumo,Alto Consumo
+4922101,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, intermunicipal, exceto em região metropolitana","15,120.40",Alto consumo,Alto Consumo
+4922102,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, interestadual","109,130.00",Alto consumo,Alto Consumo
+4922103,"Transporte rodoviário coletivo de passageiros, com itinerário fixo, internacional",,Verificar,Alto Consumo
+4923001,Serviço de táxi,,Verificar,Médio Consumo
+4923002,Serviço de transporte de passageiros - locação de automóveis com motorista,,Verificar,Médio Consumo
+4924800,Transporte escolar,,Verificar,Médio Consumo
+4929901,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, municipal",,Verificar,Médio Consumo
+4929902,"Transporte rodoviário coletivo de passageiros, sob regime de fretamento, intermunicipal, interestadual e internacional",,Verificar,Médio Consumo
+4929903,"Organização de excursões em veículos rodoviários próprios, municipal",,Verificar,Médio Consumo
+4929904,"Organização de excursões em veículos rodoviários próprios, intermunicipal, interestadual e internacional",,Verificar,Médio Consumo
+4929999,Outros transportes rodoviários de passageiros não especificados anteriormente,,Verificar,Médio Consumo
+4930201,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, municipal.","295,567.00",Alto consumo,Alto Consumo
+4930202,"Transporte rodoviário de carga, exceto produtos perigosos e mudanças, intermunicipal, interestadual e internacional","4,077,010.00",Alto consumo,Alto Consumo
+4930203,Transporte rodoviário de produtos perigosos,"44,563.50",Alto consumo,Alto Consumo
+4930204,Transporte rodoviário de mudanças,,Verificar,Alto Consumo
+4940000,Transporte dutoviário,"6,911,160.00",Alto consumo,Alto Consumo
+4950700,"Trens turísticos, teleféricos e similares",,Verificar,Alto Consumo
+5011401,Transporte marítimo de cabotagem - Carga,398.01,Alto consumo,Alto Consumo
+5011402,Transporte marítimo de cabotagem - passageiros,,Verificar,Alto Consumo
+5012201,Transporte marítimo de longo curso - Carga,,Verificar,Alto Consumo
+5012202,Transporte marítimo de longo curso - Passageiros,,Verificar,Alto Consumo
+5021101,"Transporte por navegação interior de carga, municipal, exceto travessia",,Verificar,Alto Consumo
+5021102,"Transporte por navegação interior de carga, intermunicipal, interestadual e internacional, exceto travessia","366,931.00",Alto consumo,Alto Consumo
+5022001,"Transporte por navegação interior de passageiros em linhas regulares, municipal, exceto travessia",,Verificar,Alto Consumo
+5022002,"Transporte por navegação interior de passageiros em linhas regulares, intermunicipal, interestadual e internacional, exceto travessia",,Verificar,Alto Consumo
+5030101,Navegação de apoio marítimo,"48,890.00",Alto consumo,Alto Consumo
+5030102,Navegação de apoio portuário,,Verificar,Alto Consumo
+5030103,Serviço de rebocadores e empurradores,,Verificar,Alto Consumo
+5091201,"Transporte por navegação de travessia, municipal",,Verificar,Alto Consumo
+5091202,"Transporte por navegação de travessia intermunicipal, interestadual e internacional",,Verificar,Alto Consumo
+5099801,Transporte aquaviário para passeios turísticos,,Verificar,Alto Consumo
+5099899,Outros transportes aquaviários não especificados anteriormente,,Verificar,Alto Consumo
+5111100,Transporte aéreo de passageiros regular,"118,510.00",Alto consumo,Alto Consumo
+5112901,Serviço de táxi aéreo e locação de aeronaves com tripulação,,Verificar,Alto Consumo
+5112999,Outros serviços de transporte aéreo de passageiros não-regular,,Verificar,Alto Consumo
+5120000,Transporte aéreo de carga,,Verificar,Alto Consumo
+5130700,Transporte espacial,,Verificar,Alto Consumo
+5211701,Armazéns gerais - emissão de warrant,"13,322,300.00",Alto consumo,Alto Consumo
+5211702,Guarda-móveis,,Verificar,Alto Consumo
+5211799,"Depósitos de mercadorias para terceiros, exceto armazéns gerais e guarda-móveis","4,110,940.00",Alto consumo,Alto Consumo
+5212500,Carga e descarga,"973,836.00",Alto consumo,Alto Consumo
+5221400,"Concessionárias de rodovias, pontes, túneis e serviços relacionados","914,293.00",Alto consumo,Alto Consumo
+5222200,Terminais rodoviários e ferroviários,"505,292.00",Alto consumo,Alto Consumo
+5223100,Estacionamento de veículos,"1,024,650.00",Alto consumo,Alto Consumo
+5229001,"Serviços de apoio ao transporte por táxi, inclusive centrais de chamada",,Verificar,Alto Consumo
+5229002,Serviços de reboque de veículos,,Verificar,Alto Consumo
+5229099,Outras atividades auxiliares dos transportes terrestres não especificadas anteriormente,10.32,Alto consumo,Alto Consumo
+5231101,Administração da infra-estrutura portuária,"449,182.00",Alto consumo,Alto Consumo
+5231102,Atividades do Operador Portuário,"29,949,000.00",Alto consumo,Alto Consumo
+5231103,Gestão de terminais aquaviários,"498,308.00",Alto consumo,Alto Consumo
+5232000,Atividades de agenciamento marítimo,"40,672.90",Alto consumo,Alto Consumo
+5239700,Atividades auxiliares dos transportes aquaviários não especificadas anteriormente,,Verificar,Alto Consumo
+5239701,Serviços de praticagem,,Verificar,Alto Consumo
+5239799,Atividades auxiliares dos transportes aquaviários não especificadas anteriormente,,Verificar,Alto Consumo
+5240101,Operação dos aeroportos e campos de aterrissagem,"14,688,500.00",Alto consumo,Alto Consumo
+5240199,"Atividades auxiliares dos transportes aéreos, exceto operação dos aeroportos e campos de aterrissagem",,Verificar,Alto Consumo
+5250801,Comissaria de despachos,,Verificar,Alto Consumo
+5250802,Atividades de despachantes aduaneiros,,Verificar,Alto Consumo
+5250803,"Agenciamento de cargas, exceto para o transporte marítimo","242,765.00",Alto consumo,Alto Consumo
+5250804,Organização logística do transporte de carga,"2,864,450.00",Alto consumo,Alto Consumo
+5250805,Operador de transporte multimodal - OTM,429.90,Alto consumo,Alto Consumo
+5310501,Atividades do Correio Nacional,,Verificar,Alto Consumo
+5310502,Atividades de franqueadas do Correio Nacional,,Verificar,Alto Consumo
+5320201,Serviços de malote não realizados pelo Correio Nacional,,Verificar,Alto Consumo
+5320202,Serviços de entrega rápida,,Verificar,Alto Consumo
+5510801,Hotéis,"20,109,200.00",Alto consumo,Alto Consumo
+5510802,Apart-hotéis,"130,850.00",Alto consumo,Alto Consumo
+5510803,Motéis,"16,901.10",Alto consumo,Alto Consumo
+5590601,"Albergues, exceto assistenciais",,Verificar,Alto Consumo
+5590602,Campings,"22,443.00",Alto consumo,Alto Consumo
+5590603,Pensões (alojamento),,Verificar,Alto Consumo
+5590699,Outros alojamentos não especificados anteriormente,20.47,Alto consumo,Alto Consumo
+5611201,Restaurantes e similares,"1,880,130.00",Alto consumo,Médio Consumo
+5611202,Bares e outros estabelecimentos especializados em servir bebidas,,Verificar,Médio Consumo
+5611203,"Lanchonetes, casas de chá, de sucos e similares","2,201,970.00",Alto consumo,Médio Consumo
+5611204,"Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento","38,932.40",Alto consumo,Médio Consumo
+5611205,"Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento",,Verificar,Médio Consumo
+5612100,Serviços ambulantes de alimentação,,Verificar,Médio Consumo
+5620101,Fornecimento de alimentos preparados preponderantemente para empresas,"354,445.00",Alto consumo,Médio Consumo
+5620102,Serviços de alimentação para eventos e recepções - bufê,"4,714.02",Alto consumo,Médio Consumo
+5620103,Cantinas - serviços de alimentação privativos,"15,438.00",Alto consumo,Médio Consumo
+5620104,Fornecimento de alimentos preparados preponderantemente para consumo domiciliar,"18,638.30",Alto consumo,Médio Consumo
+5811500,Edição de livros,"105,050.00",Alto consumo,Alto Consumo
+5812300,Edição de jornais,,Verificar,Alto Consumo
+5812301,Edição de jornais diários,"11,259.50",Alto consumo,Alto Consumo
+5812302,Edição de jornais não diários,,Verificar,Alto Consumo
+5813100,Edição de revistas,,Verificar,Alto Consumo
+5819100,"Edição de cadastros, listas e de outros produtos gráficos","7,741.81",Alto consumo,Alto Consumo
+5821200,Edição integrada à impressão de livros,"890,852.00",Alto consumo,Alto Consumo
+5822100,Edição integrada à impressão de jornais,,Verificar,Alto Consumo
+5822101,Edição integrada à impressão de jornais diários,"693,655.00",Alto consumo,Alto Consumo
+5822102,Edição integrada à impressão de jornais não diários,,Verificar,Alto Consumo
+5823900,Edição integrada à impressão de revistas,"179,588.00",Alto consumo,Alto Consumo
+5829800,"Edição integrada à impressão de cadastros, listas e de outros produtos gráficos","897,232.00",Alto consumo,Alto Consumo
+5911101,Estúdios cinematográficos,,Verificar,Alto Consumo
+5911102,Produção de filmes para publicidade,,Verificar,Alto Consumo
+5911199,"Atividades de produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",,Verificar,Alto Consumo
+5912001,Serviços de dublagem,,Verificar,Alto Consumo
+5912002,Serviços de mixagem sonora em produção audiovisual,,Verificar,Alto Consumo
+5912099,"Atividades de pós-produção cinematográfica, de vídeos e de programas de televisão não especificadas anteriormente",,Verificar,Alto Consumo
+5913800,"Distribuição cinematográfica, de vídeo e de programas de televisão","16,080.70",Alto consumo,Alto Consumo
+5914600,Atividades de exibição cinematográfica,"2,692,350.00",Alto consumo,Alto Consumo
+5920100,Atividades de gravação de som e de edição de música,,Verificar,Alto Consumo
+6010100,Atividades de rádio,"114,191.00",Alto consumo,Alto Consumo
+6021700,Atividades de televisão aberta,"4,951,900.00",Alto consumo,Alto Consumo
+6022501,Programadoras,"13,010.70",Alto consumo,Alto Consumo
+6022502,"Atividades relacionadas à televisão por assinatura, exceto programadoras",,Verificar,Alto Consumo
+6110801,Serviços de telefonia fixa comutada - STFC,"26,820,300.00",Alto consumo,Alto Consumo
+6110802,Serviços de redes de transportes de telecomunicações - SRTT,,Verificar,Alto Consumo
+6110803,Serviços de comunicação multimídia - SCM,"6,395,720.00",Alto consumo,Alto Consumo
+6110899,Serviços de telecomunicações por fio não especificados anteriormente,"1,309.10",Alto consumo,Alto Consumo
+6120501,Telefonia móvel celular,"10,708,600.00",Alto consumo,Alto Consumo
+6120502,Serviço móvel especializado - SME,"1,060,330.00",Alto consumo,Alto Consumo
+6120599,Serviços de telecomunicações sem fio não especificados anteriormente,,Verificar,Alto Consumo
+6130200,Telecomunicações por satélite,"158,383.00",Alto consumo,Alto Consumo
+6141800,Operadoras de televisão por assinatura por cabo,,Verificar,Alto Consumo
+6142600,Operadoras de televisão por assinatura por microondas,,Verificar,Alto Consumo
+6143400,Operadoras de televisão por assinatura por satélite,"40,959.90",Alto consumo,Alto Consumo
+6190601,Provedores de acesso às redes de comunicações,,Verificar,Alto Consumo
+6190602,Provedores de voz sobre protocolo internet - VOIP,,Verificar,Alto Consumo
+6190699,Outras atividades de telecomunicações não especificadas anteriormente,"1,396,090.00",Alto consumo,Alto Consumo
+6201500,Desenvolvimento de programas de computador sob encomenda,,Verificar,Médio Consumo
+6201501,Desenvolvimento de programas de computador sob encomenda,"142,916.00",Alto consumo,Médio Consumo
+6201502,Web design,,Verificar,Médio Consumo
+6202300,Desenvolvimento e licenciamento de programas de computador customizáveis,"20,439.70",Alto consumo,Médio Consumo
+6203100,Desenvolvimento e licenciamento de programas de computador não-customizáveis,"57,583.30",Alto consumo,Médio Consumo
+6204000,Consultoria em tecnologia da informação,"761,045.00",Alto consumo,Médio Consumo
+6209100,"Suporte técnico, manutenção e outros serviços em tecnologia da informação","320,815.00",Alto consumo,Médio Consumo
+6311900,"Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet","16,009,600.00",Alto consumo,Alto Consumo
+6319400,"Portais, provedores de conteúdo e outros serviços de informação na internet","26,918.30",Alto consumo,Alto Consumo
+6391700,Agências de notícias,,Verificar,Alto Consumo
+6399200,Outras atividades de prestação de serviços de informação não especificadas anteriormente,"15,937.00",Alto consumo,Alto Consumo
+6410700,Banco Central,,Verificar,Alto Consumo
+6421200,Bancos comerciais,"593,014.00",Alto consumo,Alto Consumo
+6422100,"Bancos múltiplos, com carteira comercial","11,383,100.00",Alto consumo,Alto Consumo
+6423900,Caixas econômicas,,Verificar,Alto Consumo
+6424701,Bancos cooperativos,,Verificar,Alto Consumo
+6424702,Cooperativas centrais de crédito,,Verificar,Alto Consumo
+6424703,Cooperativas de crédito mútuo,"14,032.00",Alto consumo,Alto Consumo
+6424704,Cooperativas de crédito rural,,Verificar,Alto Consumo
+6431000,"Bancos múltiplos, sem carteira comercial",,Verificar,Alto Consumo
+6432800,Bancos de investimento,,Verificar,Alto Consumo
+6433600,Bancos de desenvolvimento,,Verificar,Alto Consumo
+6434400,Agências de fomento,,Verificar,Alto Consumo
+6435201,Sociedades de crédito imobiliário,,Verificar,Alto Consumo
+6435202,Associações de poupança e empréstimo,,Verificar,Alto Consumo
+6435203,Companhias hipotecárias,,Verificar,Alto Consumo
+6436100,"Sociedades de crédito, financiamento e investimento - financeiras",0.86,Alto consumo,Alto Consumo
+6437900,Sociedades de crédito ao microempreendedor,,Verificar,Alto Consumo
+6438701,Bancos de câmbio,,Verificar,Alto Consumo
+6438799,Outras instituições de intermediação não-monetária não especificadas anteriormente,,Verificar,Alto Consumo
+6440900,Arrendamento mercantil,,Verificar,Alto Consumo
+6450600,Sociedades de capitalização,,Verificar,Alto Consumo
+6461100,Holdings de instituições financeiras,"38,395.40",Alto consumo,Alto Consumo
+6462000,Holdings de instituições não-financeiras,"2,494,930.00",Alto consumo,Alto Consumo
+6463800,"Outras sociedades de participação, exceto holdings","1,131,720.00",Alto consumo,Alto Consumo
+6470101,"Fundos de investimento, exceto previdenciários e imobiliários","117,748.00",Alto consumo,Alto Consumo
+6470102,Fundos de investimento previdenciários,,Verificar,Alto Consumo
+6470103,Fundos de investimento imobiliários,"1,066,350.00",Alto consumo,Alto Consumo
+6491300,Sociedades de fomento mercantil - factoring,,Verificar,Alto Consumo
+6492100,Securitização de créditos,,Verificar,Alto Consumo
+6493000,Administração de consórcios para aquisição de bens e direitos,"161,242.00",Alto consumo,Alto Consumo
+6499901,Clubes de investimento,,Verificar,Alto Consumo
+6499902,Sociedades de investimento,,Verificar,Alto Consumo
+6499903,Fundo garantidor de crédito,,Verificar,Alto Consumo
+6499904,Caixas de financiamento de corporações,,Verificar,Alto Consumo
+6499905,Concessão de crédito pelas OSCIP,,Verificar,Alto Consumo
+6499999,Outras atividades de serviços financeiros não especificadas anteriormente,,Verificar,Alto Consumo
+6511101,Sociedade seguradora de seguros vida,"23,050.30",Alto consumo,Alto Consumo
+6511102,Planos de auxílio-funeral,,Verificar,Alto Consumo
+6512000,Sociedade seguradora de seguros não vida,"793,159.00",Alto consumo,Alto Consumo
+6520100,Sociedade seguradora de seguros saúde,,Verificar,Alto Consumo
+6530800,Resseguros,,Verificar,Alto Consumo
+6541300,Previdência complementar fechada,,Verificar,Alto Consumo
+6542100,Previdência complementar aberta,"53,289.40",Alto consumo,Alto Consumo
+6550200,Planos de saúde,"2,686,290.00",Alto consumo,Alto Consumo
+6611801,Bolsa de valores,,Verificar,Alto Consumo
+6611802,Bolsa de mercadorias,,Verificar,Alto Consumo
+6611803,Bolsa de mercadorias e futuros,"898,796.00",Alto consumo,Alto Consumo
+6611804,Administração de mercados de balcão organizados,,Verificar,Alto Consumo
+6612601,Corretoras de títulos e valores mobiliários,,Verificar,Alto Consumo
+6612602,Distribuidoras de títulos e valores mobiliários,,Verificar,Alto Consumo
+6612603,Corretoras de câmbio,,Verificar,Alto Consumo
+6612604,Corretoras de contratos de mercadorias,"11,667.00",Alto consumo,Alto Consumo
+6612605,Agentes de investimentos em aplicações financeiras,,Verificar,Alto Consumo
+6613400,Administração de cartões de crédito,"3,718.40",Alto consumo,Alto Consumo
+6619301,Serviços de liquidação e custódia,,Verificar,Alto Consumo
+6619302,Correspondentes de instituições financeiras,"12,061.70",Alto consumo,Alto Consumo
+6619303,Representações de bancos estrangeiros,,Verificar,Alto Consumo
+6619304,Caixas eletrônicos,,Verificar,Alto Consumo
+6619305,Operadoras de cartões de débito,,Verificar,Alto Consumo
+6619399,Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente,"367,168.00",Alto consumo,Alto Consumo
+6621501,Peritos e avaliadores de seguros,,Verificar,Alto Consumo
+6621502,Auditoria e consultoria atuarial,,Verificar,Alto Consumo
+6622300,"Corretores e agentes de seguros, de planos de previdência complementar e de saúde",,Verificar,Alto Consumo
+6629100,"Atividades auxiliares dos seguros, da previdência complementar e dos planos de saúde não especificadas anteriormente",,Verificar,Alto Consumo
+6630400,Atividades de administração de fundos por contrato ou comissão,,Verificar,Alto Consumo
+6810201,Compra e venda de imóveis próprios,"3,170,210.00",Alto consumo,Alto Consumo
+6810202,Aluguel de imóveis próprios,"11,922,900.00",Alto consumo,Alto Consumo
+6810203,Loteamento de imóveis próprios,,Verificar,Alto Consumo
+6821801,Corretagem na compra e venda e avaliação de imóveis,,Verificar,Médio Consumo
+6821802,Corretagem no aluguel de imóveis,"2,499,700.00",Alto consumo,Médio Consumo
+6822600,Gestão e administração da propriedade imobiliária,"11,185,100.00",Alto consumo,Médio Consumo
+6911701,Serviços advocatícios,"72,249.80",Alto consumo,Médio Consumo
+6911702,Atividades auxiliares da justiça,,Verificar,Médio Consumo
+6911703,Agente de propriedade industrial,,Verificar,Médio Consumo
+6912500,Cartórios,,Verificar,Médio Consumo
+6920601,Atividades de contabilidade,,Verificar,Médio Consumo
+6920602,Atividades de consultoria e auditoria contábil e tributária,,Verificar,Médio Consumo
+7020400,"Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica","621,394.00",Alto consumo,Alto Consumo
+7111100,Serviços de arquitetura,,Verificar,Alto Consumo
+7112000,Serviços de engenharia,"926,841.00",Alto consumo,Alto Consumo
+7119701,"Serviços de cartografia, topografia e geodésia",,Verificar,Alto Consumo
+7119702,Atividades de estudos geológicos,"46,093.40",Alto consumo,Alto Consumo
+7119703,Serviços de desenho técnico relacionados à arquitetura e engenharia,,Verificar,Alto Consumo
+7119704,Serviços de perícia técnica relacionados à segurança do trabalho,,Verificar,Alto Consumo
+7119799,Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente,"26,793.20",Alto consumo,Alto Consumo
+7120100,Testes e análises técnicas,"1,038,100.00",Alto consumo,Alto Consumo
+7210000,Pesquisa e desenvolvimento experimental em ciências físicas e naturais,"3,781,310.00",Alto consumo,Alto Consumo
+7220700,Pesquisa e desenvolvimento experimental em ciências sociais e humanas,"11,053.10",Alto consumo,Alto Consumo
+7311400,Agências de publicidade,284.50,Alto consumo,Alto Consumo
+7312200,"Agenciamento de espaços para publicidade, exceto em veículos de comunicação",,Verificar,Alto Consumo
+7319001,Criação de estandes para feiras e exposições,,Verificar,Alto Consumo
+7319002,Promoção de vendas,262.94,Alto consumo,Médio Consumo
+7319003,Marketing direto,,Verificar,Médio Consumo
+7319004,Consultoria em publicidade,,Verificar,Médio Consumo
+7319099,Outras atividades de publicidade não especificadas anteriormente,,Verificar,Médio Consumo
+7320300,Pesquisas de mercado e de opinião pública,,Verificar,Médio Consumo
+7410201,Design,,Verificar,Médio Consumo
+7410202,Design de interiores,,Verificar,Médio Consumo
+7410203,Design de produto,"13,250.90",Alto consumo,Médio Consumo
+7410299,atividades de design não especificadas anteriormente,,Verificar,Médio Consumo
+7420001,"Atividades de produção de fotografias, exceto aérea e submarina",,Verificar,Baixo Consumo
+7420002,Atividades de produção de fotografias aéreas e submarinas,,Verificar,Baixo Consumo
+7420003,Laboratórios fotográficos,,Verificar,Baixo Consumo
+7420004,Filmagem de festas e eventos,,Verificar,Baixo Consumo
+7420005,Serviços de microfilmagem,,Verificar,Baixo Consumo
+7490101,"Serviços de tradução, interpretação e similares",,Verificar,Baixo Consumo
+7490102,Escafandria e mergulho,,Verificar,Baixo Consumo
+7490103,Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias,"14,474.90",Alto consumo,Médio Consumo
+7490104,"Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários","178,913.00",Alto consumo,Médio Consumo
+7490105,"Agenciamento de profissionais para atividades esportivas, culturais e artísticas",,Verificar,Baixo Consumo
+7490199,"Outras atividades profissionais, científicas e técnicas não especificadas anteriormente",,Verificar,Baixo Consumo
+7500100,Atividades veterinárias,"9,752.59",Alto consumo,Alto Consumo
+7711000,Locação de automóveis sem condutor,"192,993.00",Alto consumo,Médio Consumo
+7719501,"Locação de embarcações sem tripulação, exceto para fins recreativos",,Verificar,Médio Consumo
+7719502,Locação de aeronaves sem tripulação,,Verificar,Médio Consumo
+7719599,"Locação de outros meios de transporte não especificados anteriormente, sem condutor","77,434.80",Alto consumo,Médio Consumo
+7721700,Aluguel de equipamentos recreativos e esportivos,,Verificar,Baixo Consumo
+7722500,"Aluguel de fitas de vídeo, DVDs e similares",,Verificar,Baixo Consumo
+7723300,"Aluguel de objetos do vestuário, jóias e acessórios","17,113.30",Alto consumo,Baixo Consumo
+7729201,Aluguel de aparelhos de jogos eletrônicos,,Verificar,Baixo Consumo
+7729202,"Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais",,Verificar,Baixo Consumo
+7729203,Aluguel de material médico,,Verificar,Baixo Consumo
+7729299,Aluguel de outros objetos pessoais e domésticos não especificados anteriormente,,Verificar,Baixo Consumo
+7731400,Aluguel de máquinas e equipamentos agrícolas sem operador,,Verificar,Médio Consumo
+7732201,"Aluguel de máquinas e equipamentos para construção sem operador, exceto andaimes","4,662.07",Alto consumo,Médio Consumo
+7732202,Aluguel de andaimes,,Verificar,Médio Consumo
+7733100,Aluguel de máquinas e equipamentos para escritórios,"20,108,300.00",Alto consumo,Médio Consumo
+7739001,"Aluguel de máquinas e equipamentos para extração de minérios e petróleo, sem operador",,Verificar,Médio Consumo
+7739002,"Aluguel de equipamentos científicos, médicos e hospitalares, sem operador",,Verificar,Médio Consumo
+7739003,"Aluguel de palcos, coberturas e outras estruturas de uso temporário, exceto andaimes",,Verificar,Médio Consumo
+7739099,"Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador","6,195,580.00",Alto consumo,Médio Consumo
+7740300,Gestão de ativos intangíveis não-financeiros,,Verificar,Médio Consumo
+7810800,Seleção e agenciamento de mão-de-obra,,Verificar,Médio Consumo
+7820500,Locação de mão-de-obra temporária,,Verificar,Médio Consumo
+7830200,Fornecimento e gestão de recursos humanos para terceiros,"101,472.00",Alto consumo,Médio Consumo
+7911200,Agências de viagens,,Verificar,Baixo Consumo
+7912100,Operadores turísticos,,Verificar,Médio Consumo
+7990200,Serviços de reservas e outros serviços de turismo não especificados anteriormente,"118,132.00",Alto consumo,Médio Consumo
+8011101,Atividades de vigilância e segurança privada,,Verificar,Baixo Consumo
+8011102,Serviços de adestramento de cães de guarda,,Verificar,Baixo Consumo
+8012900,Atividades de transporte de valores,"80,317.20",Alto consumo,Alto Consumo
+8020000,Atividades de monitoramento de sistemas de segurança,,Verificar,Médio Consumo
+8020001,Atividades de monitoramento de sistemas de segurança eletrônico,"32,017.50",Alto consumo,Médio Consumo
+8020002,Outras atividades de serviços de segurança,,Verificar,Médio Consumo
+8030700,Atividades de investigação particular,,Verificar,Médio Consumo
+8111700,"Serviços combinados para apoio a edifícios, exceto condomínios prediais","282,152.00",Alto consumo,Médio Consumo
+8112500,Condomínios prediais,"103,382,000.00",Alto consumo,Médio Consumo
+8121400,Limpeza em prédios e em domicílios,"41,107.40",Alto consumo,Médio Consumo
+8122200,Imunização e controle de pragas urbanas,,Verificar,Médio Consumo
+8129000,Atividades de limpeza não especificadas anteriormente,"32,494.40",Alto consumo,Médio Consumo
+8130300,Atividades paisagísticas,"80,628.20",Alto consumo,Médio Consumo
+8211300,Serviços combinados de escritório e apoio administrativo,"4,808,760.00",Alto consumo,Médio Consumo
+8219901,Fotocópias,"4,119.18",Alto consumo,Baixo Consumo
+8219999,Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente,"999,658.00",Alto consumo,Baixo Consumo
+8220200,Atividades de teleatendimento,"4,188,120.00",Alto consumo,Médio Consumo
+8230001,"Serviços de organização de feiras, congressos, exposições e festas","482,202.00",Alto consumo,Médio Consumo
+8230002,Casas de festas e eventos,"423,120.00",Alto consumo,Alto Consumo
+8291100,Atividades de cobranças e informações cadastrais,"58,889.90",Alto consumo,Alto Consumo
+8292000,Envasamento e empacotamento sob contrato,"104,523.00",Alto consumo,Alto Consumo
+8299701,"Medição de consumo de energia elétrica, gás e água",,Verificar,Alto Consumo
+8299702,"Emissão de vales-alimentação, vales-transporte e similares",,Verificar,Médio Consumo
+8299703,"Serviços de gravação de carimbos, exceto confecção",,Verificar,Médio Consumo
+8299704,Leiloeiros independentes,,Verificar,Médio Consumo
+8299705,Serviços de levantamento de fundos sob contrato,,Verificar,Médio Consumo
+8299706,Casas lotéricas,,Verificar,Alto Consumo
+8299707,Salas de acesso à internet,,Verificar,Médio Consumo
+8299799,Outras atividades de serviços prestados principalmente às empresas não especificadas anteriormente,"3,410,270.00",Alto consumo,Médio Consumo
+8411600,Administração pública em geral,"10,392,600.00",Alto consumo,Médio Consumo
+8412400,"Regulação das atividades de saúde, educação, serviços culturais e outros serviços sociais",,Verificar,Alto Consumo
+8413200,Regulação das atividades econômicas,"866,250.00",Alto consumo,Alto Consumo
+8421300,Relações exteriores,,Verificar,Alto Consumo
+8422100,Defesa,,Verificar,Alto Consumo
+8423000,Justiça,"127,029.00",Alto consumo,Alto Consumo
+8424800,Segurança e ordem pública,"478,672.00",Alto consumo,Alto Consumo
+8425600,Defesa Civil,,Verificar,Alto Consumo
+8430200,Seguridade social obrigatória,,Verificar,Alto Consumo
+8511200,Educação infantil - creche,"10,849.60",Alto consumo,Médio Consumo
+8512100,Educação infantil - pré-escola,"220,893.00",Alto consumo,Médio Consumo
+8513900,Ensino fundamental,"1,222,240.00",Alto consumo,Médio Consumo
+8520100,Ensino médio,"1,015,750.00",Alto consumo,Médio Consumo
+8531700,Educação superior - graduação,"4,659,200.00",Alto consumo,Médio Consumo
+8532500,Educação superior - graduação e pós-graduação,"9,480,120.00",Alto consumo,Médio Consumo
+8533300,Educação superior - pós-graduação e extensão,"442,680.00",Alto consumo,Médio Consumo
+8541400,Educação profissional de nível técnico,"13,552.30",Alto consumo,Médio Consumo
+8542200,Educação profissional de nível tecnológico,,Verificar,Médio Consumo
+8550301,Administração de caixas escolares,,Verificar,Médio Consumo
+8550302,"Atividades de apoio à educação, exceto caixas escolares","87,430.70",Alto consumo,Médio Consumo
+8591100,Ensino de esportes,"58,095.00",Alto consumo,Médio Consumo
+8592901,Ensino de dança,,Verificar,Baixo Consumo
+8592902,"Ensino de artes cênicas, exceto dança",,Verificar,Baixo Consumo
+8592903,Ensino de música,,Verificar,Baixo Consumo
+8592999,Ensino de arte e cultura não especificado anteriormente,"24,267.50",Alto consumo,Baixo Consumo
+8593700,Ensino de idiomas,"33,871.60",Alto consumo,Baixo Consumo
+8599601,Formação de condutores,,Verificar,Baixo Consumo
+8599602,Cursos de pilotagem,"22,372.50",Alto consumo,Alto Consumo
+8599603,Treinamento em informática,,Verificar,Baixo Consumo
+8599604,Treinamento em desenvolvimento profissional e gerencial,"4,926.61",Alto consumo,Baixo Consumo
+8599605,Cursos preparatórios para concursos,"35,537.40",Alto consumo,Médio Consumo
+8599699,Outras atividades de ensino não especificadas anteriormente,"2,910,890.00",Alto consumo,Médio Consumo
+8610101,"Atividades de atendimento hospitalar, exceto pronto-socorro e unidades para atendimento a urgências","42,198,700.00",Alto consumo,Alto Consumo
+8610102,Atividades de atendimento em pronto-socorro e unidades hospitalares para atendimento a urgências,"7,497,240.00",Alto consumo,Alto Consumo
+8621601,UTI móvel,,Verificar,Alto Consumo
+8621602,"Serviços móveis de atendimento a urgências, exceto por UTI móvel",,Verificar,Alto Consumo
+8622400,"Serviços de remoção de pacientes, exceto os serviços móveis de atendimento a urgências",,Verificar,Alto Consumo
+8630501,Atividade médica ambulatorial com recursos para realização de procedimentos cirúrgicos,"373,258.00",Alto consumo,Alto Consumo
+8630502,Atividade médica ambulatorial com recursos para realização de exames complementares,"687,338.00",Alto consumo,Alto Consumo
+8630503,Atividade médica ambulatorial restrita a consultas,"288,759.00",Alto consumo,Alto Consumo
+8630504,Atividade odontológica,"8,354.78",Alto consumo,Alto Consumo
+8630505,Atividade odontológica sem recursos para realização de procedimentos cirúrgicos,,Verificar,Alto Consumo
+8630506,Serviços de vacinação e imunização humana,,Verificar,Alto Consumo
+8630507,Atividades de reprodução humana assistida,,Verificar,Alto Consumo
+8630599,Atividades de atenção ambulatorial não especificadas anteriormente,"23,871.60",Alto consumo,Alto Consumo
+8640201,Laboratórios de anatomia patológica e citológica,"48,336.10",Alto consumo,Alto Consumo
+8640202,Laboratórios clínicos,"2,493,520.00",Alto consumo,Alto Consumo
+8640203,Serviços de diálise e nefrologia,"111,442.00",Alto consumo,Alto Consumo
+8640204,Serviços de tomografia,"23,559.50",Alto consumo,Alto Consumo
+8640205,"Serviços de diagnóstico por imagem com uso de radiação ionizante, exceto tomografia","413,628.00",Alto consumo,Alto Consumo
+8640206,Serviços de ressonância magnética,"350,551.00",Alto consumo,Alto Consumo
+8640207,"Serviços de diagnóstico por imagem sem uso de radiação ionizante, exceto ressonância magnética","15,844.50",Alto consumo,Alto Consumo
+8640208,"Serviços de diagnóstico por registro gráfico - ECG, EEG e outros exames análogos","7,272.79",Alto consumo,Alto Consumo
+8640209,Serviços de diagnóstico por métodos ópticos - endoscopia e outros exames análogos,"18,095.70",Alto consumo,Alto Consumo
+8640210,Serviços de quimioterapia,,Verificar,Alto Consumo
+8640211,Serviços de radioterapia,"44,604.30",Alto consumo,Alto Consumo
+8640212,Serviços de hemoterapia,"71,358.10",Alto consumo,Alto Consumo
+8640213,Serviços de litotripcia,,Verificar,Alto Consumo
+8640214,Serviços de bancos de células e tecidos humanos,,Verificar,Alto Consumo
+8640299,Atividades de serviços de complementação diagnóstica e terapêutica não especificadas anteriormente,"1,483,260.00",Alto consumo,Alto Consumo
+8650001,Atividades de enfermagem,,Verificar,Alto Consumo
+8650002,Atividades de profissionais da nutrição,,Verificar,Alto Consumo
+8650003,Atividades de psicologia e psicanálise,"3,337.75",Alto consumo,Alto Consumo
+8650004,Atividades de fisioterapia,"7,915.77",Alto consumo,Alto Consumo
+8650005,Atividades de terapia ocupacional,,Verificar,Baixo Consumo
+8650006,Atividades de fonoaudiologia,,Verificar,Baixo Consumo
+8650007,Atividades de terapia de nutrição enteral e parenteral,,Verificar,Baixo Consumo
+8650099,Atividades de profissionais da área de saúde não especificadas anteriormente,"5,298.31",Alto consumo,Médio Consumo
+8660700,Atividades de apoio à gestão de saúde,"356,968.00",Alto consumo,Médio Consumo
+8690901,Atividades de práticas integrativas e complementares em saúde humana,"20,746.50",Alto consumo,Médio Consumo
+8690902,Atividades de banco de leite humano,,Verificar,Alto Consumo
+8690903,Atividades de acupuntura,,Verificar,Baixo Consumo
+8690904,Atividades de podologia,,Verificar,Baixo Consumo
+8690999,Outras atividades de atenção à saúde humana não especificadas anteriormente,"543,328.00",Alto consumo,Médio Consumo
+8711501,Clínicas e residências geriátricas,,Verificar,Médio Consumo
+8711502,Instituições de longa permanência para idosos,"43,048.10",Alto consumo,Alto Consumo
+8711503,"Atividades de assistência a deficientes físicos, imunodeprimidos e convalescentes",,Verificar,Alto Consumo
+8711504,Centros de apoio a pacientes com câncer e com AIDS,,Verificar,Alto Consumo
+8711505,Condomínios residenciais para idosos e deficientes físicos,,Verificar,Alto Consumo
+8712300,Atividades de fornecimento de infra-estrutura de apoio e assistência a paciente no domicílio,"2,176.46",Alto consumo,Alto Consumo
+8720401,Atividades de centros de assistência psicossocial,,Verificar,Alto Consumo
+8720499,"Atividades de assistência psicossocial e à saúde a portadores de distúrbios psíquicos, deficiência mental e dependência química e grupos similares não","7,073.62",Alto consumo,Alto Consumo
+8730101,Orfanatos,,Verificar,Alto Consumo
+8730102,Albergues assistenciais,,Verificar,Alto Consumo
+8730199,Atividades de assistência social prestadas em residências coletivas e particulares não especificadas anteriormente,,Verificar,Alto Consumo
+8800600,Serviços de assistência social sem alojamento,"527,613.00",Alto consumo,Alto Consumo
+8888888,Atividade Econônica não informada,,Verificar,Alto Consumo
+9001901,Produção teatral,"10,035.90",Alto consumo,Alto Consumo
+9001902,Produção musical,,Verificar,Alto Consumo
+9001903,Produção de espetáculos de dança,,Verificar,Alto Consumo
+9001904,"Produção de espetáculos circenses, de marionetes e similares",,Verificar,Alto Consumo
+9001905,"Produção de espetáculos de rodeios, vaquejadas e similares",,Verificar,Alto Consumo
+9001906,Atividades de sonorização e de iluminação,,Verificar,Alto Consumo
+9001999,"Artes cênicas, espetáculos e atividades complementares não especificadas anteriormente","100,112.00",Alto consumo,Alto Consumo
+9002701,"Atividades de artistas plásticos, jornalistas independentes e escritores",,Verificar,Alto Consumo
+9002702,Restauração de obras-de-arte,,Verificar,Médio Consumo
+9003500,"Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas","207,678.00",Alto consumo,Alto Consumo
+9101500,Atividades de bibliotecas e arquivos,,Verificar,Alto Consumo
+9102301,Atividades de museus e de exploração de lugares e prédios históricos e atrações similares,"164,242.00",Alto consumo,Alto Consumo
+9102302,Restauração e conservação de lugares e prédios históricos,,Verificar,Alto Consumo
+9103100,"Atividades de jardins botânicos, zoológicos, parques nacionais, reservas ecológicas e áreas de proteção ambiental","97,739.60",Alto consumo,Alto Consumo
+9200301,Casas de bingo,,Verificar,Alto Consumo
+9200302,Exploração de apostas em corridas de cavalos,"126,734.00",Alto consumo,Alto Consumo
+9200399,Exploração de jogos de azar e apostas não especificados anteriormente,,Verificar,Alto Consumo
+9311500,Gestão de instalações de esportes,"624,484.00",Alto consumo,Alto Consumo
+9312300,"Clubes sociais, esportivos e similares","4,115,210.00",Alto consumo,Alto Consumo
+9313100,Atividades de condicionamento físico,"1,469,320.00",Alto consumo,Alto Consumo
+9319101,Produção e promoção de eventos esportivos,,Verificar,Alto Consumo
+9319199,Outras atividades esportivas não especificadas anteriormente,,Verificar,Alto Consumo
+9321200,Parques de diversão e parques temáticos,"1,509,730.00",Alto consumo,Alto Consumo
+9329801,"Discotecas, danceterias, salões de dança e similares",,Verificar,Alto Consumo
+9329802,Exploração de boliches,,Verificar,Alto Consumo
+9329803,"Exploração de jogos de sinuca, bilhar e similares",,Verificar,Alto Consumo
+9329804,Exploração de jogos eletrônicos recreativos,,Verificar,Alto Consumo
+9329899,Outras atividades de recreação e lazer não especificadas anteriormente,"514,553.00",Alto consumo,Alto Consumo
+9411100,Atividades de organizações associativas patronais e empresariais,"1,548,940.00",Alto consumo,Alto Consumo
+9412000,Atividades de organizações associativas profissionais,,Verificar,Alto Consumo
+9412001,Atividades de fiscalização profissional,,Verificar,Alto Consumo
+9412099,Outras atividades associativas profissionais,"43,092.60",Alto consumo,Alto Consumo
+9420100,Atividades de organizações sindicais,"46,385.00",Alto consumo,Alto Consumo
+9430800,Atividades de associações de defesa de direitos sociais,"2,299,490.00",Alto consumo,Alto Consumo
+9491000,Atividades de organizações religiosas ou filosóficas,"2,403,090.00",Alto consumo,Alto Consumo
+9492800,Atividades de organizações políticas,,Verificar,Alto Consumo
+9493600,Atividades de organizações associativas ligadas à cultura e à arte,"106,698.00",Alto consumo,Alto Consumo
+9499500,Atividades associativas não especificadas anteriormente,"4,330,750.00",Alto consumo,Alto Consumo
+9511800,Reparação e manutenção de computadores e de equipamentos periféricos,,Verificar,Baixo Consumo
+9512600,Reparação e manutenção de equipamentos de comunicação,,Verificar,Baixo Consumo
+9521500,Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico,,Verificar,Baixo Consumo
+9529101,"Reparação de calçados, bolsas e artigos de viagem",,Verificar,Baixo Consumo
+9529102,Chaveiros,,Verificar,Baixo Consumo
+9529103,Reparação de relógios,,Verificar,Baixo Consumo
+9529104,"Reparação de bicicletas, triciclos e outros veículos não-motorizados",,Verificar,Baixo Consumo
+9529105,Reparação de artigos do mobiliário,,Verificar,Baixo Consumo
+9529106,Reparação de jóias,,Verificar,Baixo Consumo
+9529199,Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente,,Verificar,Baixo Consumo
+9601701,Lavanderias,"248,291.00",Alto consumo,Baixo Consumo
+9601702,Tinturarias,"261,020.00",Alto consumo,Baixo Consumo
+9601703,Toalheiros,"1,319,650.00",Alto consumo,Baixo Consumo
+9602501,"Cabeleireiros, manicure e pedicure",,Verificar,Baixo Consumo
+9602502,Atividades de estética e outros serviços de cuidados com a beleza,,Verificar,Baixo Consumo
+9603301,Gestão e manutenção de cemitérios,,Verificar,Médio Consumo
+9603302,Serviços de cremação,,Verificar,Médio Consumo
+9603303,Serviços de sepultamento,,Verificar,Médio Consumo
+9603304,Serviços de funerárias,,Verificar,Médio Consumo
+9603305,Serviços de somatoconservação,,Verificar,Médio Consumo
+9603399,Atividades funerárias e serviços relacionados não especificados anteriormente,,Verificar,Médio Consumo
+9609201,Clinicas de estética e similares,,Verificar,Médio Consumo
+9609202,Agências matrimoniais,,Verificar,Médio Consumo
+9609203,"Alojamento, higiene e embelezamento de animais",,Verificar,Médio Consumo
+9609204,Exploração de máquinas de serviços pessoais acionadas por moeda,,Verificar,Médio Consumo
+9609205,Atividades de sauna e banhos,"2,741.34",Alto consumo,Médio Consumo
+9609206,Serviços de tatuagem e colocação de piercing,,Verificar,Baixo Consumo
+9609207,Alojamento de animais domésticos,,Verificar,Médio Consumo
+9609208,Higiene e embelezamento de animais domésticos,,Verificar,Médio Consumo
+9609299,Outras atividades de serviços pessoais não especificadas anteriormente,,Verificar,Médio Consumo
+9700500,Serviços domésticos,,Verificar,Médio Consumo
+9900800,Organismos internacionais e outras instituições extraterritoriais,,Verificar,Médio Consumo
